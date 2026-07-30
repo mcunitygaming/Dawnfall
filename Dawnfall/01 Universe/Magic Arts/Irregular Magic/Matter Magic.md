@@ -1,0 +1,5 @@
+**Creation magic** is the most common form of magic, found in every person who deeply loves creating. This magic can improve, strengthen, and reinforce items and even add spells or attributes to an item by Magic Imbue and Magic Script. After mastery, people who have creation magic can create temporary full sets of weapons or armor, and even create new spells when bonded to a type of elemental magic they are trying to create a new spell for. The level at which a creation sorcerer is can dictate the quality of things they create or improve. The legend says that the gods used this magic to create these lands.
+
+**Magic Imbue** is when someone uses matter/creation magic to give an object a property of any magic type. Example: Physical Magic makes things stronger, and fire magic makes a sword burn.
+
+**Magic Script** is when someone uses matter/creation and writes a full spell on any object to allow for the use of that spell, even without knowing how to use the spell, as long as you have the strength for it.
