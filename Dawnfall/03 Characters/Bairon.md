@@ -39,7 +39,7 @@ Balanced, refined, and symmetrical physique optimized for control and precision.
 - **Proportions**: Symmetrical to an unnatural degree, with the main muscle focus on grappling and throwing a person
 - **Posture**: Upright, rigid, but always aligned at an angle towards whatever has his attention, as if he will right then pull a bow string back
 - **Presence**: Calm, cold, almost suffocatingly precise, feels like everything around him is being frozen.
-- **Extra**: hair creamy white cause bru da freak
+- **Extra**: hair creamy white cause bru da freak, blah blah blah
 
 ### Combat Style
 
