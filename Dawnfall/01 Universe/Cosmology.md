@@ -32,7 +32,7 @@ No Angel rules above another — except in origin.
 All living things unknowingly draw from this Angel.
 
 ## Elemental Angels
-These Angels govern the four primal elemental forces. They represent tangible, visible power within the natural world. They often work together and mix to create and govern sub-elements.
+These Angels govern the four primal elemental forces. They represent tangible, visible power within the natural world. They often work together and mix to create and govern sub-elements. It is known that they bless the [[World Trees]] to bring magic into this world.
 
 - **Fire Angel**
 This Angel governs flame, heat, combustion, and energetic transformation. Associated with intensity, passion, destruction, and renewal.

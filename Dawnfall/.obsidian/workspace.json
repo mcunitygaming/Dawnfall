@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Characters/Connor-Caelen.md",
+                "file": "01 Universe/Cosmology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connor-Caelen"
+              "title": "Cosmology"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Characters/Connor-Caelen.md",
+                "file": "01 Universe/Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Connor-Caelen"
+              "title": "Backlinks for Cosmology"
             }
           },
           {
@@ -186,14 +186,22 @@
   },
   "active": "3b4c50bc8042f590",
   "lastOpenFiles": [
+    "05 Locations/World Trees.md",
+    "01 Universe/History.md",
     "03 Characters/Corvelan.md",
+    "03 Characters/Connor-Caelen.md",
+    "02 Stories/Aurvara.md",
+    "02 Stories/Exodus.md",
+    "01 Universe/Realms.md",
+    "00 Home/Home.md",
+    "07 Creatures/Thoughtborn.md",
+    "RULES.md",
     "Assets/Templates/Item Template.md",
     "Assets/Templates/Location Template.md",
     "Assets/Templates/Creature Template.md",
     "Assets/Templates/Character Template.md",
     "Assets/Character Classifications.md",
     "03 Characters/Cian.md",
-    "00 Home/Home.md",
     "01 Universe/Magic Arts/Elemental Magic/Fire Magic.md",
     "01 Universe/Magic Arts/Irregular Magic/Matter Magic.md",
     "01 Universe/Magic Arts/Irregular Magic/Space Magic.md",
@@ -201,20 +209,12 @@
     "01 Universe/Magic Arts/Mythical Magic/Dark Magic.md",
     "01 Universe/Magic Arts/Mythical Magic/Devil Spirit.md",
     "01 Universe/Magic Arts/Mythical Magic/God Spirit.md",
-    "RULES.md",
     "01 Universe/Magic Arts/Magic Arts.md",
     "Excalidraw/Drawing 2026-07-30 05.10.21.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
-    "03 Characters/Connor-Caelen.md",
-    "02 Stories/Aurvara.md",
     "03 Characters/Bairon.md",
     "Assets/Templates",
-    "01 Universe/Cosmology.md",
-    "01 Universe/History.md",
-    "04 Organizations/Sunbreak Spire.md",
-    "01 Universe/Realms.md",
-    "04 Organizations/The Shun.md",
     "01 Universe/Magic Arts/Mythical Magic",
     "01 Universe/Magic Arts/Irregular Magic",
     "01 Universe/Magic Arts/Elemental Magic",

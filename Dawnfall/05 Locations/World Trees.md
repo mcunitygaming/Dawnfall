@@ -1,0 +1,3 @@
+There are four World Trees: Fire, Water, Earth, and Air. These trees were the main producers of the four elemental magic types, but they were burned to the ground in the War of Dawn Fall. These lands are now dangerous places covered with demon and monster life. The World Tree of Water Island is the only one that looks like it might grow back except the World Tree itself people know this because there are four smaller trees, located in the middle of no man's land, that are linked to world trees.
+
+![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/e70c4c7e-8ac5-4dca-880a-295d461e8ac9/uploads/images/9600f5b098225efc9413b6b3e807ff6f.jpeg)

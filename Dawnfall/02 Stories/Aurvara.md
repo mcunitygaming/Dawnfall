@@ -1,3 +1,4 @@
+This story follows the poor humans that stayed on the origin planet, this is explained in the [[History]] note. The theme is cities of Victorian/medieval feel and nature of a mossy, living, and vast forest feeling.
 # Story Arcs/Seasons
 
 Three protagonists, **Corvelan, Cian, and Bairon**, each fundamentally incomplete in different ways, must synchronize their distinct ways of understanding reality to stabilize a collapsing world system. **_3 people 3 problems 1 ending_**.

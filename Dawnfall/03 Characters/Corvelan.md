@@ -41,7 +41,7 @@ After meeting Halira, this aspect of him begins to change. What starts as simple
 “Darkness isn’t evil, it’s nothing! The absence of something! Sin is evil. It’s something! The something that wants to be known as nothing!  
 Corvelan -> The Thoughtborn
 
-"Everything is optional, so just weigh reward and consequence."  
+"Everything is optional, so just weigh reward and consequence."
 Corvelan - Motto
 
 "If he moves, it means you mattered enough to be worth the effort."  
@@ -135,6 +135,8 @@ _The style relies on_ fear and disorientation: Corv may leap over a foe, land be
     - **World's Furnace:** Corvelan condenses fire magic into the air surrounding a target, subtly increasing thermal pressure and oxygen strain. Though not hot enough to burn, the heightened heat triggers the body’s primal survival instincts, accelerating heart rate and inducing involuntary fear responses. Victims experience sweating, tremors, and an overwhelming sense of danger, as if standing before an unseen wildfire. The effect intensifies with Corv’s focus and emotional state. Strong-willed individuals can resist the panic, but even they feel the weight of his presence. This ability is not only used by him for fear, but Corvelan would also warm the air to make the people he trusts comfortable.
 
 - **Perfect Space Magic:** 
+	- **True Expanse:** This is the realm that Corv owns. It is described as a truly expansive world that is a forever-growing forest with mossy, living, and bright areas. Not only is it a forest, but there are also massive floating islands and boulders, along with huge underground caverns.
+	
 	- Corvelan will use his space magic only if he doesn't have his sword, mainly because the sword is too big and would get in the way. When he does use it, he will often flash step around the area or even touch his opponent to take them with him. If there is a wall in his way and he has never seen the other side, he can walk through the wall if it is thin enough.
 	
 	- **Noiseless Domain:** Corv can create a space in a dome around him that acts as a soundproof barrier. no sound in, no sound out.
