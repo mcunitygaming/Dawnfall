@@ -4,7 +4,7 @@
 - **Nickname(s):** Hali, Lira, Miss. Kingdom-Class Wisp
 - **Hometown:** None
 - **Sex:** Female
-- **Race(s):** Highborn Kin
+- **Race(s):** [[Highborn Kin]]
 - **Profession(s):** Student at Sunbreak Spire (Academics SC)
 - **Height:** 5 ft 6 in (167 cm)
 - **Story:** [[Aurvara]]

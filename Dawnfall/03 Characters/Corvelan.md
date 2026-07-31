@@ -4,7 +4,7 @@
 - **Nickname(s):** Corv, Lan-Lan, Sleepy, Mr. World-Class Rook, The One with Absent Eyes, A Thoughtborn Human / A Thought Born Human
 - **Hometown:** Sunbrook Haven
 - **Sex:** Male
-- **Race(s):** Highborn Kin, partly Dragon Kin
+- **Race(s):** [[Highborn Kin]], partly Dragon Kin
 - **Profession(s):** Student at Sunbreak Spire (Commercial District DC), Future Space Angel
     - **Mental Stats**
         - Fake: 100 / 100 / 100

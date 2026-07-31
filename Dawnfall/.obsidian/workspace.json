@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Universe/Cosmology.md",
+                "file": "03 Characters/Connor-Caelen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmology"
+              "title": "Connor-Caelen"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Universe/Cosmology.md",
+                "file": "03 Characters/Connor-Caelen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cosmology"
+              "title": "Backlinks for Connor-Caelen"
             }
           },
           {
@@ -186,10 +186,20 @@
   },
   "active": "3b4c50bc8042f590",
   "lastOpenFiles": [
-    "05 Locations/World Trees.md",
-    "01 Universe/History.md",
     "03 Characters/Corvelan.md",
     "03 Characters/Connor-Caelen.md",
+    "03 Characters/Halira.md",
+    "03 Characters/Cian.md",
+    "03 Characters/Bairon.md",
+    "01 Universe/Races of People/Highborn Kin.md",
+    "01 Universe/Races of People/Siravell.md",
+    "01 Universe/Races of People/Sylfen.md",
+    "01 Universe/Races of People/Deepstone Kin.md",
+    "01 Universe/Races of People/Beastborn Kin.md",
+    "01 Universe/Cosmology.md",
+    "01 Universe/Races of People",
+    "05 Locations/World Trees.md",
+    "01 Universe/History.md",
     "02 Stories/Aurvara.md",
     "02 Stories/Exodus.md",
     "01 Universe/Realms.md",
@@ -201,19 +211,10 @@
     "Assets/Templates/Creature Template.md",
     "Assets/Templates/Character Template.md",
     "Assets/Character Classifications.md",
-    "03 Characters/Cian.md",
     "01 Universe/Magic Arts/Elemental Magic/Fire Magic.md",
     "01 Universe/Magic Arts/Irregular Magic/Matter Magic.md",
-    "01 Universe/Magic Arts/Irregular Magic/Space Magic.md",
-    "01 Universe/Magic Arts/Irregular Magic/Time Magic.md",
-    "01 Universe/Magic Arts/Mythical Magic/Dark Magic.md",
-    "01 Universe/Magic Arts/Mythical Magic/Devil Spirit.md",
-    "01 Universe/Magic Arts/Mythical Magic/God Spirit.md",
-    "01 Universe/Magic Arts/Magic Arts.md",
-    "Excalidraw/Drawing 2026-07-30 05.10.21.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
-    "03 Characters/Bairon.md",
     "Assets/Templates",
     "01 Universe/Magic Arts/Mythical Magic",
     "01 Universe/Magic Arts/Irregular Magic",
@@ -221,7 +222,6 @@
     "Connor",
     "01 Universe/Magic Arts",
     "00 Home",
-    "Assets",
-    "09 Ideas"
+    "Assets"
   ]
 }

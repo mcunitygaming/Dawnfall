@@ -4,7 +4,7 @@
 - **Nickname(s):** Hym, The Totem-Bearer, He Who Wears the Beasts
 - **Hometown:** The Evergreen Antler Clan (Deerman Tribe)
 - **Sex:** Male
-- **Race(s):** Beastborn Kin (Deer variant)
+- **Race(s):** [[Beastborn Kin]] (Deer variant)
 - **Profession(s):** Student at Sunbreak Spire (Student Affairs SC), Future Matter Angel
 - **Height:** 6 ft 7 in (200 cm)
 - **Story:** [[Aurvara]]

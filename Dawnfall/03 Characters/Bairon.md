@@ -4,7 +4,7 @@
 - **Nickname(s):** Jona, Rin
 - **Hometown:** Highveil
 - **Sex:** Male
-- **Race(s):** Highborn Kin
+- **Race(s):** [[Highborn Kin]]
 - **Profession(s):** Student at Sunbreak Spire (Administration SC), Future Time Angel
 - **Height:** 5 ft 4 in (162 cm)
 - **Dere Type:** Tsundere / Kuudere mix
