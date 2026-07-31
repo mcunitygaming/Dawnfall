@@ -1,11 +1,7 @@
-# Dawnfall
-
 ## Stories
 
 - [[Aurvara]]
 - [[Exodus]]
-
----
 
 ## Universe
 
@@ -30,8 +26,6 @@
 		- [[Devil Spirit]]
 - [[Realms]]
 
----
-
 ## Characters
 
 - [[Corvelan]]
@@ -39,8 +33,6 @@
 - [[Bairon]]
 - [[Cian]]
 - [[Halira]]
-
----
 
 ## Organizations
 

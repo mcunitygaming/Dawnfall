@@ -84,7 +84,7 @@ Tall, lean, and highly muscular build optimized for agility and acrobatics. Enha
 - **Presence**: Feels unanchored and weightless, as if gravity affects him differently
 - **Extra**:
     - Movements leave slight distortions, like space lags behind him for around two seconds.
-    - Two horns on either side of his head grow out and forward. These horns are sharp enough to cut through space, creating orbs that are holes in reality that Corvelan can then throw, and once it lands, the orbs collapse into a temporary black hole.
+    - Due to Corvelans hidden Dragon Kin blood ties, two horns on either side of his head grow out and forward. These horns are sharp enough to cut through space, creating orbs that are holes in reality that Corvelan can then throw, and once it lands, the orbs collapse into a temporary black hole. Also he can grow scaled dragon wings out his back, that can be used like two extra limbs.
 
 ### Combat Style
 
@@ -134,7 +134,10 @@ _The style relies on_ fear and disorientation: Corv may leap over a foe, land be
     
     - **World's Furnace:** Corvelan condenses fire magic into the air surrounding a target, subtly increasing thermal pressure and oxygen strain. Though not hot enough to burn, the heightened heat triggers the body’s primal survival instincts, accelerating heart rate and inducing involuntary fear responses. Victims experience sweating, tremors, and an overwhelming sense of danger, as if standing before an unseen wildfire. The effect intensifies with Corv’s focus and emotional state. Strong-willed individuals can resist the panic, but even they feel the weight of his presence. This ability is not only used by him for fear, but Corvelan would also warm the air to make the people he trusts comfortable.
 
-- **Perfect Space Magic:** Corvelan will use his space magic only if he doesn't have his sword, mainly because the sword is too big and would get in the way. When he does use it, he will often flash step around the area or even touch his opponent to take them with him. If there is a wall in his way and he has never seen the other side, he can walk through the wall if it is thin enough.
+- **Perfect Space Magic:** 
+	- Corvelan will use his space magic only if he doesn't have his sword, mainly because the sword is too big and would get in the way. When he does use it, he will often flash step around the area or even touch his opponent to take them with him. If there is a wall in his way and he has never seen the other side, he can walk through the wall if it is thin enough.
+	
+	- **Noiseless Domain:** Corv can create a space in a dome around him that acts as a soundproof barrier. no sound in, no sound out.
 
 - **God Spirit:** Corv usually uses this in extreme danger or when he is in a moment of intense emotion, usually anger.
 

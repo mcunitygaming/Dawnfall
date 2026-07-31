@@ -5,7 +5,7 @@
 - **Hometown:** None
 - **Sex:** None
 - **Profession:** None
-- **Story:** 
+- **Story:** None
 
 ## Personality info
 
