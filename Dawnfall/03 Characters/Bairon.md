@@ -39,7 +39,7 @@ Balanced, refined, and symmetrical physique optimized for control and precision.
 - **Proportions**: Symmetrical to an unnatural degree, with the main muscle focus on grappling and throwing a person
 - **Posture**: Upright, rigid, but always aligned at an angle towards whatever has his attention, as if he will right then pull a bow string back
 - **Presence**: Calm, cold, almost suffocatingly precise, feels like everything around him is being frozen.
-- **Extra**:
+- **Extra**: hair creamy white cause bru da freak
 
 ### Combat Style
 
@@ -58,7 +58,7 @@ Bairon in all cases prefers ranged fighting as that's what from a child he felt 
 
 **Sibling(s):** Fenric Leorin (Brother) and Roderic Leorin (Brother)
 
-**Friend(s):** Corvelan Aldren McCaleth, Cian Hymvar Evergreen
+**Friend(s):** [[Corvelan]] Aldren McCaleth, [[Cian]] Hymvar Evergreen
 
 **Love interest:** none
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Bestiary/Monocruph.md",
+                "file": "03 Characters/Bairon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monocruph"
+              "title": "Bairon"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 Bestiary/Monocruph.md",
+                "file": "03 Characters/Bairon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monocruph"
+              "title": "Backlinks for Bairon"
             }
           },
           {
@@ -184,36 +184,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "268eb8f907cfe6a5",
+  "active": "3b4c50bc8042f590",
   "lastOpenFiles": [
-    "07 Bestiary/Dragons.md",
-    "07 Bestiary/Monocruph.md",
-    "03 Characters/Connor-Caelen.md",
-    "07 Creatures/Untitled",
-    "03 Characters/Corvelan.md",
-    "03 Characters/Halira.md",
-    "03 Characters/Cian.md",
+    "04 Organizations/The Shun.md",
+    "04 Organizations/Sunbreak Spire.md",
     "03 Characters/Bairon.md",
+    "03 Characters/Corvelan.md",
+    "03 Characters/Cian.md",
+    "03 Characters/Connor-Caelen.md",
+    "00 Home/Home.md",
+    "Assets/Character Classifications.md",
+    "07 Bestiary/Dragons.md",
+    "07 Bestiary/Thoughtborn.md",
+    "07 Bestiary/Monocruph.md",
+    "01 Universe/Cosmology.md",
+    "02 Stories/Aurvara.md",
+    "02 Stories/Exodus.md",
+    "07 Creatures/Untitled",
+    "03 Characters/Halira.md",
     "01 Universe/Races of People/Highborn Kin.md",
     "01 Universe/Races of People/Siravell.md",
     "01 Universe/Races of People/Sylfen.md",
     "01 Universe/Races of People/Deepstone Kin.md",
     "01 Universe/Races of People/Beastborn Kin.md",
-    "01 Universe/Cosmology.md",
     "01 Universe/Races of People",
     "05 Locations/World Trees.md",
     "01 Universe/History.md",
-    "02 Stories/Aurvara.md",
-    "02 Stories/Exodus.md",
     "01 Universe/Realms.md",
-    "00 Home/Home.md",
-    "07 Bestiary/Thoughtborn.md",
     "RULES.md",
     "Assets/Templates/Item Template.md",
     "Assets/Templates/Location Template.md",
-    "Assets/Templates/Creature Template.md",
-    "Assets/Templates/Character Template.md",
-    "Assets/Character Classifications.md",
     "Untitled.canvas",
     "Excalidraw",
     "Assets/Templates",

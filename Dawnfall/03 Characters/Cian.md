@@ -98,7 +98,7 @@ Cian's combat style is focused on where others on his team lack, often carving t
 
 **Sibling(s):** None
 
-**Friend(s):** Corvelan Aldren McCaleth, Bairon Jonathar Leorin
+**Friend(s):** [[Corvelan]] Aldren McCaleth, [[Bairon]] Jonathar Leorin
 
 **Love interest:** None
 
