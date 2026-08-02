@@ -12,7 +12,9 @@
 
 ## Personality info
 
-As a child, Rin discovered his talent for the bow, which was highly praised by his parents, with this eventually leading to him being very cocky and bratty causing many kids to not like him and later had a fight with another child, causing his eye to be stabbed and shamed by his parents, leading to him becoming a Perfectionist. As a result of this event, he goes on to try to perfect other forms of combat besides range. As people know "Talent is useless without hard work" and so, Rin puts in the hard work to be the strongest and smartest in Sunbreak. Though, he is the best he still has flaws he yet is aware of yet. But, once becoming aware of his flaws he wants to change and starts to have a low self worth and hates himself. He tries and tries to change but it's very difficult. Through his journey he learns his family isn't just corrupt or bratty snobs but are part of an evil organization which brings him to the conclusion to slime out his family.
+Childhood: Rin discovered his talent for the bow, which was highly praised by his parents, with this eventually leading to him being very cocky and bratty causing many kids to not like him and later had a fight with another child, causing his eye to be stabbed and shamed by his parents, leading to him becoming a Perfectionist. As a result of this event, he goes on to try to perfect other forms of combat besides range. As people know "Talent is useless without hard work" and so, Rin puts in the hard work to be the strongest and smartest in Sunbreak. Though, he is the best he still has flaws he yet is aware of yet. 
+
+Sunbreak Spire (arc?): Rin is the top student at Sunbreak and some say he's amazing and is a bit popular while others dislike him for how he acts towards others. So far, nothing seems to be so special about Rin's character.
 
 ## World (Combat/Life/Extra) Information
 
@@ -56,11 +58,11 @@ Bairon in all cases prefers ranged fighting as that's what from a child he felt 
 
 **Mom:** Thalira Leorin
 
-**Sibling(s):** Fenric Leorin (Brother) and Roderic Leorin (Brother)
+**Sibling(s):** Roderic Leorin (Middle Brother) and Fenric Leorin (Little Brother)
 
-**Friend(s):** [[Corvelan]] Aldren McCaleth, [[Cian]] Hymvar Evergreen
+**Friend(s):** [[Corvelan]] Aldren McCaleth, [[Cian]] Hymvar Evergreen, [[Halira]]
 
-**Love interest:** none
+**Love interest:** none (yet)
 
 **Soul Sibling:** Byron
 
