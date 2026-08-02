@@ -1,7 +1,7 @@
 # Basic Information
 
 - **Name:** Bairon Jonathar Leorin
-- **Nickname(s):** Rin
+- **Nickname(s):** Rin, (The Eyeless / Blind / One Eyed Archer?)
 - **Hometown:** Highveil
 - **Sex:** Male
 - **Race(s):** [[Highborn Kin]]
@@ -12,7 +12,7 @@
 
 ## Personality info
 
-Childhood: Rin discovered his talent for the bow, which was highly praised by his parents, with this eventually leading to him being very cocky and bratty causing many kids to not like him and later had a fight with another child, causing his eye to be stabbed and shamed by his parents, leading to him becoming a Perfectionist. As a result of this event, he goes on to try to perfect other forms of combat besides range. As people know "Talent is useless without hard work" and so, Rin puts in the hard work to be the strongest and smartest in Sunbreak. Though, he is the best he still has flaws he yet is aware of yet. 
+Childhood: Rin discovered his talent for the bow, Water Magic and Wind Magic, which was highly praised by his parents. Rin grew up different from the other kids which leading him always being alone. Because of this he always felt this lonely sensation and made him think something was wrong with everyone, with this eventually leading to him being very cocky and bratty causing many kids to not like him and later had a fight with another child, causing his eye to be stabbed and shamed by his parents. Getting physically injured and losing an eye was already hard on Rin but getting shamed by his parents who seemed to be the only people who loved Rin and didn't seem so different made it even worse, leading to him becoming a Perfectionist because him not being perfect made him think he has to be perfect in order for his parents to love him. As a result of this event, he goes on to try to perfect other forms of combat besides range. As people know "Talent is useless without hard work" and so, Rin puts in the hard work to be the strongest and smartest in Sunbreak. Though, he is the best he still has flaws he yet is aware of yet.
 
 Sunbreak Spire (arc?): Rin is the top student at Sunbreak and some say he's amazing and is a bit popular while others dislike him for how he acts towards others. So far, nothing seems to be so special about Rin's character.
 
