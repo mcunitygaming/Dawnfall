@@ -1,7 +1,7 @@
 # Basic Information
 
 - **Name:** Bairon Jonathar Leorin
-- **Nickname(s):** Rin, (The Eyeless / Blind / One Eyed Archer?)
+- **Nickname(s):** Rin, (The Time Archer of Death?)
 - **Hometown:** Highveil
 - **Sex:** Male
 - **Race(s):** [[Highborn Kin]]
@@ -14,7 +14,7 @@
 
 Childhood: Rin discovered his talent for the bow, Water Magic and Wind Magic, which was highly praised by his parents. Rin grew up different from the other kids which leading him always being alone. Because of this he always felt this lonely sensation and made him think something was wrong with everyone, with this eventually leading to him being very cocky and bratty causing many kids to not like him and later had a fight with another child, causing his eye to be stabbed and shamed by his parents. Getting physically injured and losing an eye was already hard on Rin but getting shamed by his parents who seemed to be the only people who loved Rin and didn't seem so different made it even worse, leading to him becoming a Perfectionist because him not being perfect made him think he has to be perfect in order for his parents to love him. As a result of this event, he goes on to try to perfect other forms of combat besides range. As people know "Talent is useless without hard work" and so, Rin puts in the hard work to be the strongest and smartest in Sunbreak. Though, he is the best he still has flaws he yet is aware of yet.
 
-Sunbreak Spire (arc?): Rin is the top student at Sunbreak and some say he's amazing and is a bit popular while others dislike him for how he acts towards others. Though every time someone talks to him or is friendly he has this kuudere type act he has and always gets flustered and scared as he's not used to it at all.
+Sunbreak Spire (arc?): Rin is the top student at Sunbreak and some say he's amazing and is a bit popular while others dislike him for how he acts towards others. Though every time someone talks to him or is friendly he has this kuudere type act he has and always gets flustered and scared as he's not used to it at all. He is very socially overanalytical and may sometimes think someone's thinking bad about him. Rin tends to try and push people away from getting scared. Rin is the type of guy he does not care for others except for himself as he thinks everyone hates him. If Rin makes a mistake or is bad at something he will bring himself down but later try and fix the mistake or become good at what he was bad at.
 
 ## World (Combat/Life/Extra) Information
 
@@ -28,8 +28,9 @@ Bow and Arrow, Knife, Standard Sunbreak Uniform(1st-4th)
 
 ### God Spirit - The Kryha Arrow
 
-Represents precision, time, and control; unlocks Time + Ice magic binding. (Later is able to not just freeze time itself but the concept of time.) Freezing the concept of time not only freezes time but causes light and sound to stop which everyone else except himself can't see or hear.
+Represents precision, time, and control; unlocks Time + Ice magic binding. (Later is able to not just freeze time itself but the literal concept of time.) Freezing the concept of time not only freezes time but causes light and sound to stop which everyone else except himself can't see or hear.
 
+**Tokei (時計)** **Eye**: Literally meaning "Clock Eye" is Rin channeling all his Time Magic into his one eye giving it the appearance of a ticking clock. With it everything seems to slow down. This ability seems to be perfect for him as he doesn't need to channel his magic in two eyes as he only has one making it more powerful.
 ### Vessel Form - Apex Precision Frame
 
 Balanced, refined, and symmetrical physique optimized for control and precision. Minimal wasted motion, extreme stability for ranged combat and timing-based attacks. Reflects his controlled, calculated, and time-focused combat philosophy
