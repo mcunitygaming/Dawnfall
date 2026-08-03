@@ -3,3 +3,6 @@
 **Magic Imbue** is when someone uses matter/creation magic to give an object a property of any magic type. Example: Physical Magic makes things stronger, and fire magic makes a sword burn.
 
 **Magic Script** is when someone uses matter/creation and writes a full spell on any object to allow for the use of that spell, even without knowing how to use the spell, as long as you have the strength for it.
+
+## Variant form
+Matter/Creation magic has a variant form that is very easy to use but hard to master called **Cooking Magic**, yes you heard it here first folks. Cooking magic can be used to see chemical compounds of any ingredient allowing for the user to know what and why an ingredient might cause something to happen. Also it can be used to mix ingredients together making it so the user can pick what nutrients and chemicals to keep and what to get rid of. Buffs from other magic types can be applied to the food/drink as well, which can cause some serious damage if paired with mental magic or dark magic.

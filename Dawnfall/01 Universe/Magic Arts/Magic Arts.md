@@ -4,7 +4,7 @@ Magic is an ancient mystery to the residents of Dawnfall. Particles of magic res
 
 ## Utilization
 
-**Physical Magic:** particles will need to be produced from your core, then you will need to sense the magic in the core and make it flow throughout you, but once outside of the body, it's almost impossible to control. That's why people can only strengthen the object they are in contact with. To tame, you will need to weaken a hostile animal or earn the trust of a passive one. Then, direct contact is required to infuse your magic into the animal. If they are too weak to resist or voluntarily accept it, you will tame the animal.
+**Physical Magic:** particles will need to be produced from your core, then you will need to sense the magic in the core and make it flow throughout you, but once outside of the body, it's almost impossible to control. That's why people can only strengthen the object they are in contact with. To tame, you will need to weaken a hostile animal or earn the trust of a passive one. Then, direct contact is required to infuse your magic into the animal. If they are too weak to resist or voluntarily accept it, you will tame the animal. It also has Pure magic which just acts as a nonelement version of magic, so uncontracted and spell rules apply. Mental Magic is just physical magic but controlling someone else's physical magic causing mind control and hallucinations.
 
 **Elemental Magic:** For the use of elemental magic, you will need to create a core first for the corresponding element. This will allow two different methods of use:
 
@@ -15,6 +15,7 @@ Sub-variants of elemental magic can be used in the same way, but just by mixing 
 
 **Irregular Magic:** All magic that falls under this category has one method of use, and that is uncontracted magic. Luckily, Irregular cores are born fully structured — unlike elemental ones, this means that uncontracted magic is easier to use than elemental magic.
 
+**Mythical Magic:** Acts like a mix of all other magic types as it has spells for light and dark magic but can be used like irregular magic easily. 
 ## Cores
 
 All magic particles are in and formed in a parallel realm, while the magic cores, which are used to manipulate the particles, reside in both the living thing and the other realm.
