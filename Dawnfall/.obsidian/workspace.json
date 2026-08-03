@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Universe/Magic Arts/Irregular Magic/Time Magic.md",
+                "file": "01 Universe/Magic Arts/Irregular Magic/Matter Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time Magic"
+              "title": "Matter Magic"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "3b4c50bc8042f590",
   "lastOpenFiles": [
+    "01 Universe/Magic Arts/Irregular Magic/Time Magic.md",
     "01 Universe/Magic Arts/Irregular Magic/Space Magic.md",
     "01 Universe/Magic Arts/Irregular Magic/Matter Magic.md",
     "01 Universe/Magic Arts/Physical Magic.md",
@@ -215,7 +216,6 @@
     "01 Universe/Races of People/Beastborn Kin.md",
     "01 Universe/Races of People",
     "05 Locations/World Trees.md",
-    "01 Universe/History.md",
     "Untitled.canvas",
     "Excalidraw",
     "Assets/Templates",
