@@ -77,6 +77,9 @@ liquid plated metal arm, faceless mask
 
 **Soul Sibling:** [[Corvelan]]
 
+# Images
+
+
 # Story
 
 ## Background

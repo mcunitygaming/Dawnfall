@@ -49,7 +49,11 @@ Wand, Standard Sunbreak Uniform(1st), Student Council Uniform(2nd-4th)
 
 **Soul Sibling:** None
 
-## Extra Images
+# Images
+
+### Current Halira
+
+![[adult halira.jpeg]]
 
 ### Young Halira
 

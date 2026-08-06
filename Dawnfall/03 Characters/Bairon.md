@@ -67,6 +67,12 @@ Bairon in all cases prefers ranged fighting as that's what from a child he felt 
 
 **Soul Sibling:** Byron
 
+# Images
+
+## Current Bairon
+
+![[Bairon.jpg]]
+
 # Story
 
 ## Background
