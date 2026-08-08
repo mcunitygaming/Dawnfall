@@ -4,8 +4,8 @@
 - **Nicknames:** Nat
 - **Hometown:** None
 - **Sex:** Female
-- **Profession:** Student at Sunbreak Spire
-- **Story:** Aurvara
+- **Profession:** Student at [[Sunbreak Spire]]
+- **Story:** [[Aurvara]]
 
 ## Personality info
 
@@ -15,7 +15,7 @@ An average student at Sunbreak Spire. She was mostly like everyone else except t
 
 ### Magic Arts
 
-Physical Magic (Pure Magic), Fire Magic, Matter Magic (Music Magic)
+[[Physical Magic]] (Pure Magic), [[Fire Magic]], [[Matter Magic]] (Music Magic)
 
 ### Equipment
 
@@ -35,7 +35,7 @@ A flower hairclick, Standard Sunbreak Uniform
 
 # Appearance
 
-- **Race:** Highborn Kin
+- **Race:** [[Highborn Kin]]
 - **Height:** 5'4"
 - **Eyes:** Emerald green
 - **Hair:** Red
