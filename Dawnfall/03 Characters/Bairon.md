@@ -22,7 +22,7 @@ Sunbreak Spire (arc?): Rin is the top student at Sunbreak and some say he's amaz
 
 [[Physical Magic]], [[Water Magic]], [[Air Magic]], Ice Magic (Water + Air sub-variant), [[Time Magic]], [[God Spirit]], and [[Vessel Frame]]
 
-### Weapon(s) and Armor or Tool(s) and Outfits
+### Equipment
 
 Bow and Arrow, Knife, Standard Sunbreak Uniform(1st-4th)
 

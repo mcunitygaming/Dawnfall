@@ -57,7 +57,7 @@ Corvelan -> Cian
 
 [[Physical Magic]], [[Fire Magic]], Perfect [[Space Magic]], Dormant [[Dark Magic]], [[God Spirit]], and [[Vessel Frame]]
 
-### Weapon(s) and Armor or Tool(s) and Outfits
+### Equipment
 
 Straight hands, Noctyra, Argentum, Disciplinary Committee Uniform(2nd-4th), Standard Sunbreak Uniform(1st), often seen with a top hat
 

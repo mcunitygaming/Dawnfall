@@ -28,7 +28,7 @@ Cian is a nice and thoughtful person, as shown by his care for others. You would
 
 [[Physical Magic]], [[Matter Magic]] (Cooking magic), Plant (earth + water sub-variant) Magic, [[Earth Magic]], [[Water Magic]], [[God Spirit]], and [[Vessel Frame]]
 
-### Weapon(s) and Armor or Tool(s) and Outfits
+### Equipment
 
 Pitchfork, sling, helmet, animal charms, Standard Sunbreak Uniform(1st), Student Council Uniform(2nd-4th)
 

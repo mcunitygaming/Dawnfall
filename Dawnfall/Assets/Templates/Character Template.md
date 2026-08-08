@@ -17,7 +17,7 @@ None
 
 Physical Magic, None
 
-### Weapon(s) and Armor or Tool(s) and Outfits
+### Equipment
 
 None
 

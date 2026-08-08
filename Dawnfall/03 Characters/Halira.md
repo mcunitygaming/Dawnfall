@@ -31,7 +31,7 @@ At the start of the story, she is one of the most emotionally mature characters,
 
 [[Physical Magic]], [[Matter Magic]], [[Water Magic]], [[Light Magic]]
 
-### Weapon(s) and Armor or Tool(s) and Outfits
+### Equipment
 
 Wand, Standard Sunbreak Uniform(1st), Student Council Uniform(2nd-4th)
 
