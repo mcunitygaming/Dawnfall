@@ -157,7 +157,7 @@ _The style relies on_ fear and disorientation: Corv may leap over a foe, land be
 
 **Love Interest:** [[Halira]] Thaless
 
-Soul Sibling(s): [[Connor-Caelen]]
+**Soul Sibling(s):** [[Connor-Caelen]]
 
 # Images
 

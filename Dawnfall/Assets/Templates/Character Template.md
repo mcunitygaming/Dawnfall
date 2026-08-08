@@ -40,7 +40,7 @@ None
 - **Eyes:** 
 - **Hair:** 
 - **etc.** 
-## Images
+# Images
 
 
 # Story
