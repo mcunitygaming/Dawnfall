@@ -59,7 +59,7 @@ You're probably stuck with me."
 
 [[Physical Magic]], [[God Spirit]]
 
-### Weapon(s) and Armor or Tool(s) and Outfits
+### Equipment
 
 liquid plated metal arm, faceless mask
 
@@ -76,6 +76,9 @@ liquid plated metal arm, faceless mask
 **Love interest:** None
 
 **Soul Sibling:** [[Corvelan]]
+
+# Images
+
 
 # Story
 

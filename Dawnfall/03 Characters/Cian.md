@@ -26,9 +26,9 @@ Cian is a nice and thoughtful person, as shown by his care for others. You would
 
 ### Magic Arts
 
-[[Physical Magic]], [[Matter Magic]], Plant (earth + water sub-variant) Magic, [[Earth Magic]], [[Water Magic]], [[God Spirit]], and [[Vessel Frame]]
+[[Physical Magic]], [[Matter Magic]] (Cooking magic), Plant (earth + water sub-variant) Magic, [[Earth Magic]], [[Water Magic]], [[God Spirit]], and [[Vessel Frame]]
 
-### Weapon(s) and Armor or Tool(s) and Outfits
+### Equipment
 
 Pitchfork, sling, helmet, animal charms, Standard Sunbreak Uniform(1st), Student Council Uniform(2nd-4th)
 
@@ -104,9 +104,13 @@ Cian's combat style is focused on where others on his team lack, often carving t
 
 **Soul Sibling:** Caleb
 
-## Extra Images
+# Extra Images
 
-### Animal Totem (Bear)
+## Current Cian
+
+![[Cian.jpg]]
+
+## Animal Totem (Bear)
 
 ![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/e70c4c7e-8ac5-4dca-880a-295d461e8ac9/uploads/images/7cb5ade500d716952de693b8a388f5e0.webp)
 

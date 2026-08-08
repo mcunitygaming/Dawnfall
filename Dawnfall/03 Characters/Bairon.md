@@ -22,13 +22,15 @@ Sunbreak Spire (arc?): Rin is the top student at Sunbreak and some say he's amaz
 
 [[Physical Magic]], [[Water Magic]], [[Air Magic]], Ice Magic (Water + Air sub-variant), [[Time Magic]], [[God Spirit]], and [[Vessel Frame]]
 
-### Weapon(s) and Armor or Tool(s) and Outfits
+### Equipment
 
 Bow and Arrow, Knife, Standard Sunbreak Uniform(1st-4th)
 
-### God Spirit - The Kryha Arrow
+### God Spirit - The Time Icicle
 
 Represents precision, time, and control; unlocks Time + Ice magic binding. (Later is able to not just freeze time itself but the literal concept of time.) Freezing the concept of time not only freezes time but causes light and sound to stop which everyone else except himself can't see or hear.
+
+**Appearance**: Gains an icy glow with a ticking clock behind him which he can channel into his eye giving him the "Tokei Eye".
 
 **Tokei (時計)** **Eye**: Literally meaning "Clock Eye" is Rin channeling all his Time Magic into his one eye giving it the appearance of a ticking clock. With it everything seems to slow down. This ability seems to be perfect for him as he doesn't need to channel his magic in two eyes as he only has one making it more powerful.
 ### Vessel Form - Apex Precision Frame
@@ -66,6 +68,12 @@ Bairon in all cases prefers ranged fighting as that's what from a child he felt 
 **Love interest:** none (yet)
 
 **Soul Sibling:** Byron
+
+# Images
+
+## Current Bairon
+
+![[Bairon.jpg]]
 
 # Story
 

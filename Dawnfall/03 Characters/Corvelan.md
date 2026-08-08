@@ -57,7 +57,7 @@ Corvelan -> Cian
 
 [[Physical Magic]], [[Fire Magic]], Perfect [[Space Magic]], Dormant [[Dark Magic]], [[God Spirit]], and [[Vessel Frame]]
 
-### Weapon(s) and Armor or Tool(s) and Outfits
+### Equipment
 
 Straight hands, Noctyra, Argentum, Disciplinary Committee Uniform(2nd-4th), Standard Sunbreak Uniform(1st), often seen with a top hat
 
@@ -157,17 +157,23 @@ _The style relies on_ fear and disorientation: Corv may leap over a foe, land be
 
 **Love Interest:** [[Halira]] Thaless
 
-Soul Sibling(s): [[Connor-Caelen]]
+**Soul Sibling(s):** [[Connor-Caelen]]
 
-## Images
+# Images
 
-### Hollow Iris
+## Current Corvelan
+
+![[Corvelan(2).jpg]]
+
+![[Corvelan.jpeg]]
+
+## Hollow Iris
 
 ![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/e70c4c7e-8ac5-4dca-880a-295d461e8ac9/uploads/images/cb2ba0b2da86ba6a369eba6086b270b0.jpeg)
 
 ![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/e70c4c7e-8ac5-4dca-880a-295d461e8ac9/uploads/images/e52eda0497badee88caf609220191c8d.jpeg)
 
-### Hollow Conscious
+## Hollow Conscious
 
 ![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/e70c4c7e-8ac5-4dca-880a-295d461e8ac9/uploads/images/e0485f3966ea66d1b0aad37696bf7475.jpeg)
 
