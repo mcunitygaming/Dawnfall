@@ -6,7 +6,7 @@
 - **Sex:** Female
 - **Race(s):** [[Highborn Kin]]
 - **Profession(s):** Student at Sunbreak Spire (Academics SC)
-- **Height:** 5 ft 6 in (167 cm)
+- **Height:** 5 ft 4 in (163 cm)
 - **Story:** [[Aurvara]]
 
 ## Personality info
