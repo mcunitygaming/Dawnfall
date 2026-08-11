@@ -13,7 +13,7 @@
 
 Halira is endlessly curious, perceptive, and polite while being a little pushy. She has a strength and a stubbornness that can draw people toward her naturally. Her empathy allows her to read others’ emotions and intentions without judgment, making her emotionally stabilizing to those around her—even for the most unpredictable or guarded individuals. She dislikes when someone doesn't work to their full potential. Although Halira is not a fighter she is very strong emotionally driven person, often being sharp tongued in her younger years and sometimes even when she's older. 
 
-At the start of the story, she is one of the most emotionally mature characters, and after she meets Corvelan, she will start to watch, train, and practice with him, eventually becoming one of the strongest characters in the world. She's not the only one to change in that relationship, as her connection to Corvelan caused him to grow from apathy to empathy, allowing him to actually start caring for people.
+At the start of the story, she is one of the most academically intelligent characters, and after she meets Corvelan, she will start to watch, train, and practice with him, eventually becoming one of the strongest characters in the world. She's not the only one to change in that relationship, as her connection to Corvelan caused him to grow from apathy to empathy, allowing him to actually start caring for people.
 
 |   |   |
 |---|---|
