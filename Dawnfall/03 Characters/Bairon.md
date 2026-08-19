@@ -32,7 +32,9 @@ Represents precision, time, and control; unlocks Time + Ice magic binding. (Late
 
 **Appearance**: Gains an icy glow with a ticking clock behind him which he can channel into his eye giving him the "Tokei Eye".
 
-**Tokei (時計)** **Eye**: Literally meaning "Clock Eye" is Rin channeling all his Time Magic into his one eye giving it the appearance of a ticking clock. With it everything seems to slow down. This ability seems to be perfect for him as he doesn't need to channel his magic in two eyes as he only has one making it more powerful.
+**Hyorinmaru Tokei**: Meaning "Ice Ring Clock" is a big icy clock that appears behind Rin and is able to use his Time + Ice magic at it's full potential. 
+
+**Tokei Eye**: Literally meaning "Clock Eye" is Rin channeling all his Time Magic into his one eye giving it the appearance of a ticking clock. With it everything seems to slow down. This ability seems to be perfect for him as he doesn't need to channel his magic in two eyes as he only has one making it more powerful.
 ### Vessel Form - Apex Precision Frame
 
 Balanced, refined, and symmetrical physique optimized for control and precision. Minimal wasted motion, extreme stability for ranged combat and timing-based attacks. Reflects his controlled, calculated, and time-focused combat philosophy
