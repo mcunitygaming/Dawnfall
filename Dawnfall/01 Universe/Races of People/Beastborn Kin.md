@@ -4,10 +4,25 @@
 - **Traits:** Primal strength, diverse abilities, tribe-based societies, attuned to nature
 - **Magic Compatibility:** Physical Magic
 - **Appearance:** Hybrid forms of human and animal; each person has traits of one animal type
+- **Notes:** Their physical magic allows **enhanced combat, tracking, and taming beasts**
 - **Subraces / Tribes:**
     - **Skycrest Aviary:** Bird people
+	    - **Average Height:**
+			- **Male:** 6 ft 2 in - 6 ft 5 in (187 cm - 195 cm)
+			- **Female:** 5 ft 10 in - 6 ft 2 in (177 cm - 187 cm)
     - **Scalecrest Brood:** Lizard people
+	    - **Average Height:**
+			- **Male:** 5 ft 6 in - 5 ft 8 in (167 cm - 172 cm)
+			- **Female:** 5 ft 4 in - 5 ft 6 in (162 cm - 167 cm)
     - **Thicketpounce Clan:** Cat people
+	    - **Average Height:**
+			- **Male:** 5 ft 6 in - 5 ft 8 in (167 cm - 172 cm)
+			- **Female:** 5 ft 4 in - 5 ft 6 in (162 cm - 167 cm)
     - **Fernmane Pack:** Wolf people
+	    - **Average Height:**
+			- **Male:** 5 ft 7 in - 5 ft 10 in (170 cm - 177 cm)
+			- **Female:** 5 ft 3 in - 5 ft 6 in (160 cm - 167 cm)
     - **Evergreen Antler Clan:** Deer people
-- **Notes:** Their physical magic allows **enhanced combat, tracking, and taming beasts**
+	    - **Average Height:**
+			- **Male:** 6 ft 6 in - 6 ft 8 in (198 cm - 203 cm)
+			- **Female:** 6 ft 4 in - 6 ft 7 in (193 cm - 200 cm)
