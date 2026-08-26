@@ -32,7 +32,7 @@ Represents precision, time, and control; unlocks Time + Ice magic binding. (Late
 
 **Appearance**: Gains an icy glow with a ticking clock behind him which he can channel into his eye giving him the "Tokei Eye".
 
-**Hyorinmaru Tokei**: Meaning "Ice Ring Clock" is a big icy clock that appears behind Rin and is able to use his Time + Ice magic at it's full potential. 
+**Hyorinmaru Tokei**: Meaning "Ice Ring Clock" is a big icy clock that appears behind Rin and is able to use his Time + Ice magic at it's full potential. The more the Clock freezes with ice the more time slows down until eventually time stops completely.
 
 **Tokei Eye**: Literally meaning "Clock Eye" is Rin channeling all his Time Magic into his one eye giving it the appearance of a ticking clock. With it everything seems to slow down. This ability seems to be perfect for him as he doesn't need to channel his magic in two eyes as he only has one making it more powerful.
 ### Vessel Form - Apex Precision Frame
@@ -47,7 +47,7 @@ Balanced, refined, and symmetrical physique optimized for control and precision.
 - **Posture**: Upright, rigid, but always aligned at an angle towards whatever has his attention, as if he will right then pull a bow string back
 - **Presence**: Calm, cold, almost suffocatingly precise, feels like everything around him is being frozen.
 - **Extra**: Hair grows long and becomes icy white.
-
+- **Effects**: Rin's Archery, Grappling and Ice Magic abilities are at it's full potential.
 ### Combat Style
 
 Bairon in all cases prefers ranged fighting as that's what from a child he felt comfortable with it allows him to see everything and make the absolute best choose for that situation this also applies to his relationships as he views people in the lens of unpredictability causing him to make friends with people, he doesn't see changing and/or he can easily predict what they would do in different scenarios. When not in ranged situations, Bairon often uses a form of grappling techniques.
