@@ -44,12 +44,10 @@ Corvelan -> The Thoughtborn
 "Everything is optional, so just weigh reward and consequence."
 Corvelan - Motto
 
-"If he moves, it means you mattered enough to be worth the effort."  
-people -> Corvelan
-
 "I’d rather teach someone to stand beside me than keep them behind me."
-
 Corvelan -> Cian
+
+"A heart is a tool... A tool for those without one."
 
 ## World (Combat/Life/Extra) Information
 
@@ -84,7 +82,7 @@ Tall, lean, and highly muscular build optimized for agility and acrobatics. Enha
 - **Presence**: Feels unanchored and weightless, as if gravity affects him differently
 - **Extra**:
     - Movements leave slight distortions, like space lags behind him for around two seconds.
-    - Due to Corvelans hidden Dragon Kin blood ties, two horns on either side of his head grow out and forward. These horns are sharp enough to cut through space, creating orbs that are holes in reality that Corvelan can then throw, and once it lands, the orbs collapse into a temporary black hole. Also he can grow scaled dragon wings out his back, that can be used like two extra limbs.
+    - Due to Corvelans hidden Dragon Kin blood ties, two horns on either side of his head grow out and forward. These horns are black and sharp enough to cut through space, creating orbs that are holes in reality that Corvelan can then throw, and once it lands, the orbs collapse into a temporary black hole. Also he can grow scaled dragon wings out his back, that can be used like two extra limbs.
 
 ### Combat Style
 
