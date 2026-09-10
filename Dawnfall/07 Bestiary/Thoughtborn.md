@@ -1,4 +1,4 @@
-The Thoughtborn are the "Demons" of Dawnfall
+The Thoughtborn are the "Demons" of Dawnfall created from the thoughts of sentient creatures through the Machina Creation. Them and their Machina was sealed in one of the [[Realms]] before the events of Aurvara. Their greed drives them to pull people into the realm where they will then break the individual mentally, allowing them to invade the mind and escape the Thoughtborn realm. The escaped demon will then collapse the body they possessed into a gate or portal between realms.
 ### **The Leading Thought**
 
 **The Leading Thought** is the collective human desire for connection, possession, and control. It completely dominates the magic of **control**, allowing it to manipulate minds, raise the dead, possess people, and even partially influence the fundamental laws of **space, time, and matter** by forcing connections between them. It is the mastermind of the three and uses possessed humans as gateways from the Thoughtborn Realm into the Dawnfall Realm.
