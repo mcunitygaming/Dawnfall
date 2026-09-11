@@ -15,10 +15,10 @@ Sub-variants of elemental magic can be used in the same way, but just by mixing 
 
 **Mythical Magic:** Acts like a mix of all other magic types as it has spells for light and dark magic but can be used like irregular magic easily. 
 
-**Specials**
-Beings can offer items to progress further in strength (This will lead to the sacrifice of life with a soul causing corruption by Thoughtborn)
+### Specials
+**Covenant of Growth:** Beings can offer items of importance to progress further in Magic Arts. (This will lead to the sacrifice of life with a soul causing corruption by Thoughtborn)
 
-Beings can also pledge themselves to a specific magic type to double its power but becoming twice as worse in all other magic variants
+**Covenant of Allegiance:** Beings can pledge themselves to a specific magic type to **double its power**, but becoming **twice as worse in all other magic variants**. A person can even make this pledge for a specific reason, for example destruction and this will force all impulses and abilities in that region to be enhanced. If this pledge is broken the user will **lose all control of the magic they pledged to** and will never be able to form their God spirit. The only way to break a pledge is to go to one of the world trees and make an **Covenant of Growth** in the temple at the middle (It does not matter what one of the [[World Trees]] they go to).
 ## Cores
 
 All magic particles are in and formed in a parallel realm, while the magic cores, which are used to manipulate the particles, reside in both the living thing and the other realm.
