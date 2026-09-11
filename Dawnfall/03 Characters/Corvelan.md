@@ -38,7 +38,7 @@ After meeting Halira, this aspect of him begins to change. What starts as simple
 
 ### Quotes
 
-“Darkness isn’t evil, it’s nothing! The absence of something! Sin is evil. It’s something! The something that wants to be known as nothing!  
+“Darkness isn’t evil, it’s nothing. The absence of something. Sin is evil. It’s something. The something that wants to be known as nothing.
 Corvelan -> The Thoughtborn
 
 "Everything is optional, so just weigh reward and consequence."
