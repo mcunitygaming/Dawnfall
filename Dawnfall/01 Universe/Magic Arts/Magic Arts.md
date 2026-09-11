@@ -48,12 +48,12 @@ All elemental magic originates from four different [[World Trees]]: _World Tree 
 
 List of all subtypes of Fire, Water, Air, and Earth Magic. Ideas are welcome in the Discord. All variants must be under the four elements.
 
-- Lightning = Fire + Air
+- Electricity = Fire + Air
 - Magma = Fire + Earth
-- Steam/Mist = Fire + Water
+- Weather = Fire + Water
 - Ice = Water + Air
 - Plant = Water + Earth
-- Dust/Sand = Earth + Air
+- Gravity = Earth + Air
 
 ## Mythic Magic
 
