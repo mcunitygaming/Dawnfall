@@ -9,6 +9,7 @@ They do not typically interfere directly. Instead, their influence manifests thr
 		- Mythical
 	- Sacrifice
 		- Beings can offer items to progress further in strength (This will lead to the sacrifice of life with a soul causing corruption by Thoughtborn)
+		- Beings can also pledge themselves to a specific magic type to double its power but becoming twice as worse in all other magic variants
 
 The Ten Angels operate in balance:
 - Physical enables motion.

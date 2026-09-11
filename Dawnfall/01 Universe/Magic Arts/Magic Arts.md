@@ -14,6 +14,11 @@ Sub-variants of elemental magic can be used in the same way, but just by mixing 
 **Irregular Magic:** All magic that falls under this category has one method of use, and that is uncontracted magic. Luckily, Irregular cores are born fully structured — unlike elemental ones, this means that uncontracted magic is easier to use than elemental magic.
 
 **Mythical Magic:** Acts like a mix of all other magic types as it has spells for light and dark magic but can be used like irregular magic easily. 
+
+**Specials**
+Beings can offer items to progress further in strength (This will lead to the sacrifice of life with a soul causing corruption by Thoughtborn)
+
+Beings can also pledge themselves to a specific magic type to double its power but becoming twice as worse in all other magic variants
 ## Cores
 
 All magic particles are in and formed in a parallel realm, while the magic cores, which are used to manipulate the particles, reside in both the living thing and the other realm.
