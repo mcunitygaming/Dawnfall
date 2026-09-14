@@ -14,37 +14,36 @@ There is a "**Soul-Link**" transition in the school seasons that functions as a 
 ## Arc 1: Seeds of Aurvara
 
 - **Focus:** Childhood of Corv, Bairon, and Cian
-- **Description:** Introduces their origins, families, early exposure to magic, and formative experiences. Shows Corv’s latent Dark Magic, Bairon’s rare Time Magic tendencies, and Cian’s connection to his tribe’s animal heritage.
-- **Tone:** Warm childhood but tinged with mystery and hints of future conflict.
+- **Description:** Introduces their origins, families, early exposure to magic, and formative experiences. Shows Corv’s descent into the thoughtborn realm, Bairon’s perfectionist tendencies, and Cian’s connection to his tribe’s animal heritage. 
+- **Tone:** Childhood tinged with mystery and danger.
 
 ## Arc 2: Letter From Sunbreak
 
 - **Focus:** 1st year at Sunbreak Spire
-- **Description:** Characters get invited to school, face entrance trials, and begin testing their magic. First encounters between the three main characters hint at their complementary abilities.
+- **Description:** Characters get invited to school, face entrance trials, and begin testing their magic. First encounters between the three main characters and their complementary abilities.
 - **Tone:** Adventure and excitement, with tension building as they adapt to the wider world.
 
 ## Arc 3: The First Trials
 
 - **Focus:** 2nd year at Sunbreak Spire
-- **Description:** back for more school life, magic training, racial and class dynamics, and the first low-stakes competitions. Characters begin forming bonds and rivalries while learning the basics of teamwork and elemental magic.
+- **Description:** back for more school life, magic training, racial and class dynamics, and the first low-stakes competitions. Characters begin forming bonds and rivalries while learning the basics of teamwork and magic.
 - **Tone:** Light-hearted with moments of suspense and humor; school-life slice of life.
 
 ## Arc 4: Shadows and Currents
 
 - **Focus:** 3rd year, God Spirit and Vessel Frame unlock
-- **Description:** Characters encounter things on school missions. Introduces Hollow Iris/Hollow Conscious, Kryha Arrow, and Verdant Stag in full glory.
+- **Description:** Characters encounter things on school missions. Introduces God spirits and Vessel frames in full glory.
 - **Tone:** Darker, suspenseful, with stakes rising.
 
 ## Arc 5: Spirits Awakening
 
 - **Focus:** 4th year, God Spirit and Vessel Frame Mastery
-- **Description:** Extreme trials or emotional confrontations lead each character to master their God Spirit.
+- **Description:** Extreme trials or emotional confrontations lead each character to master their God spirit and/or Vessel frame. Conflict starts throughout the entire universe
 - **Tone:** Epic, dramatic, and transformative; turning point in the story.
 
 ## Arc Movie: Prophecy Aurvara
 
 - **Focus:**
-    - Major world conflict emerges, and info on the world tree islands.
     - Resolution and aftermath
 - **Description:**
     - Light and Dark magic escalate globally; demon threats and corrupted Devil Spirits become widespread. Characters face high-level challenges that test their abilities and bonds. Learning more about the dangers of the world's trees.
@@ -69,16 +68,16 @@ There is a "**Soul-Link**" transition in the school seasons that functions as a 
 
 “This world has distance, so things can exist apart from one another.
 
-Space does not discriminate.
+Space doesn't play favorites.
 
 It makes room for cruelty just as easily as kindness.
 
-Evil exists because the world allows space for it to exist… but so does righteousness.
+Evil exists because the world allows space for it to exist… but also righteousness.
 
-In the end, all you can do is choose your side.”
+In the end, good is only good when its chosen.”
 -- **Corvelan**
 
-“People dream about reliving moments… resetting mistakes… stopping time before something precious disappears.
+“People dream about reliving moments… resetting mistakes… stopping time before something important disappears.
 
 But time moves for everyone.
 
@@ -86,22 +85,24 @@ It carries away the good with the bad, joy with grief, whether we’re ready or 
 
 So when life drags you through the mud…
 
-keep walking, or you'll be left behind.”
+Crawl and when you get the chance stand and keep walking, or you'll be left behind.”
 -- **Bairon**
 
 “A single object can become a gift for someone you love…
 
 or a weapon that harms another.
 
-The physical world is never yours alone.
+The physical world is never yours alone, only everyone's.
 
-It’s easy to dedicate your death to someone.
+It’s easy to dedicate your death to someone and say "I'll die for you".
 
-The harder question is this:
+The harder action is this:
 
 Are you willing to dedicate your life to them?”
 -- **Cian**
 
+These are lessons you will learn. **:Start / End:** These are lessons you have learned.
+-- **All Three**
 # Story
 
 ## Arc 1
