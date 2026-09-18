@@ -7,3 +7,5 @@
 - **Vortex Whorl** - A spinning wind pocket like a small tornado.
 - **Skywhisper** - Sends messages carried through the air.
 - **Vacuum Grip** – Creates a pocket of low air pressure, restricting movement.
+## Variants
+- 

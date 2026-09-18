@@ -62,6 +62,8 @@ You're probably stuck with me."
 ### Equipment
 
 liquid plated metal arm, faceless mask
+### Combat Style
+
 
 ## Relationships
 

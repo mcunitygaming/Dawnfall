@@ -2,8 +2,14 @@ In **Aurvara**, the supreme creator is the **Christian God** — the singular or
 
 They do not typically interfere directly. Instead, their influence manifests through:
 - The [[Magic Arts]] system
-- Natural law
-- Rare divine phenomena
+	- Laws
+		- Physical
+		- Elemental
+		- Irregular
+		- Mythical
+	- Sacrifice
+		- Covenant of Growth
+		- Covenant of Allegiance
 
 The Ten Angels operate in balance:
 - Physical enables motion.

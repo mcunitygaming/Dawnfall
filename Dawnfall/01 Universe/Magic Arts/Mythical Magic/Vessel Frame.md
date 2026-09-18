@@ -2,7 +2,7 @@
 
 The **Vessel Form** is a rare genetic-magical trait that allows a person to awaken a permanent enhanced physical state known as the **Vessel Frame**. It represents the full physical potential of a living being, shaped by their body type, instincts, combat style, and Physical Magic compatibility. Unlike armor or external augmentation, the Vessel Form is the user’s own body **fully optimized and expanded through Physical Magic refinement**. It is a permanent-toggle state that can be activated or deactivated at will once awakened.
 
-Vessel users do not gain a new body—they enter a **physically restructured version of themselves**, where muscle density, bone structure, reflex speed, and endurance are enhanced to match their deepest physical identity. This form reflects how the user’s body would evolve at its peak under perfect Physical Magic mastery.
+The Races of People in this universe have an extra organ that can write new DNA code based on behavior, habits, others around them, and events they've lived through. This new DNA code is then pushed throughout the body as dormant genes, that will eventually be turned on with a hormonal response. Vessel users do not gain a new body—they enter a **physically restructured version of themselves**, where muscle density, bone structure, reflex speed, and endurance are enhanced to match their deepest physical identity. This form reflects how the user’s body would evolve at its peak under perfect Physical Magic mastery.
 
 ## Appearance
 

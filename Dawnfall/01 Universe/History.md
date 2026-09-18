@@ -1,6 +1,6 @@
 The world is governed by 10 angels that each embody an aspect of reality, this is explained in the [[Cosmology]] note
 
-Originally, a single human faction discovered the magic particle realm and began drawing power from it, enabling the use of magic. They eventually created a machine that turned thoughts into physical entities; however, the device malfunctioned due to the dark nature of human thoughts. In response, wealthy humans fled to a different solar system, losing the location of their origin planet in the process.
+Originally, a single human tier 2 civilization (Kardashev Scale) discovered the magic particle realm and to draw power from it they planted and grew four [[World Trees]] that brought magic to their realm. They were so advanced that they had a Dyson swarm around the sun, and eventually created a machine that turned thoughts into physical entities; however, the device malfunctioned due to the dark nature of human thoughts. In response, higher class humans fled to a different solar system, losing the location of their origin system in the process.
 
 The poor humans left behind on the origin planet split into several groups:
 
