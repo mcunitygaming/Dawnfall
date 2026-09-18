@@ -31,7 +31,20 @@ There is a "**Soul-Link**" transition in the school seasons that functions as a 
 		- It will cut to the 1st child in a castle bedroom revealing his name "**Bairon**" by a calling woman
 		- 
 - **EP 2** (Cian)
+	- **First Scene**
+		- 
 - **EP 3** (Corvelan)
+	- **First Scene**
+		- 
+- **EP 4** (Bairon)
+	- **First Scene**
+		- 
+- **EP 5** (Cian)
+	- **First Scene**
+		- 
+- **EP 6** (Corvelan)
+	- **First Scene**
+		- 
 ## Arc 2: Letter From Sunbreak
 
 - **Focus:** 1st year at Sunbreak Spire 
