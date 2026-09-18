@@ -6,23 +6,8 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:\"03 Characters\" ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:\"01 Universe/Magic Arts\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    }
-  ],
-  "collapse-display": false,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -32,9 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8854989543150349,
-=======
-  "scale": 0.6316046762907457,
->>>>>>> 95554af13e94522c72a6f96266aa787ddcf6e21b
+  "scale": 0.7132754626224402,
   "close": true
 }
