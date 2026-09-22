@@ -1,6 +1,6 @@
 # Basic Information
 
-- **Name:** Bairon Jonathar Leorin
+- **Name:** Bairon Jonathar Leorin (Barn, Gift of God, Light)
 - **Nickname(s):** Rin, (The Time Archer of Death?)
 - **Hometown:** Highveil
 - **Sex:** Male

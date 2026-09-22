@@ -1,6 +1,6 @@
 # Basic Information
 
-- **Name:** Corvelan Aldren McCaleth (*Cor-vel-an Al-d-ren Mc-Cal-eth*)
+- **Name:** Corvelan Aldren McCaleth (*Cor-vel-an, Al-d-ren, Mc-Cal-eth*) (Little raven, Old friend, Heaven)
 - **Nickname(s):** Corv, Lan-Lan, Sleepy, Mr. World-Class Rook, The One with Absent Eyes, A Thoughtborn Human / A Thought Born Human
 - **Hometown:** Sunbrook Haven
 - **Sex:** Male

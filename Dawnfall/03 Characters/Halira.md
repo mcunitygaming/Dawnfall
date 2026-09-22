@@ -1,6 +1,6 @@
 # Basic Information
 
-- **Name:** Halira Thaless _(_Ha-li-ra_)_ _(Thal-ess)_
+- **Name:** Halira Thaless _(Ha-li-ra)_ _(Thal-ess)_ (Serenity, Flourishing)
 - **Nickname(s):** Hali, Lira, Miss. Kingdom-Class Wisp
 - **Hometown:** None
 - **Sex:** Female

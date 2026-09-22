@@ -1,6 +1,6 @@
 # Basic Information
 
-- **Name:** Cian (Kee-an) Hymvar Evergreen
+- **Name:** Cian (Kee-an) Hymvar Evergreen (Ancient, Bearer of life, Steadfast)
 - **Nickname(s):** Hym, The Totem-Bearer, He Who Wears the Beasts
 - **Hometown:** The Evergreen Antler Clan (Deerman Tribe)
 - **Sex:** Male

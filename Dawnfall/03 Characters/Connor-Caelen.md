@@ -1,6 +1,6 @@
 # Basic Information
 
-- **Name:** Caelen Aris McKeon (*K-len Air-is Mc-Key-on*)
+- **Name:** Caelen Aris McKeon (*K-len Air-is Mc-Key-on*) (Slender, Best, God is gracious)
 - **Nicknames:** Forged from Steel, Deities' Dread, Rend.
 - **Hometown:** None
 - **Sex:** Male
