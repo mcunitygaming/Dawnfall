@@ -4,7 +4,6 @@
 - **Nickname(s):** Corv, Lan-Lan, Sleepy, Mr. World-Class Rook, The One with Absent Eyes, A Thoughtborn Human / A Thought Born Human
 - **Hometown:** Sunbrook Haven
 - **Sex:** Male
-- **Race(s):** [[Highborn Kin]], partly Dragon Kin
 - **Profession(s):** Student at Sunbreak Spire (Commercial District DC), Future Space Angel
     - **Mental Stats**
         - Fake: 100 / 100 / 100
@@ -14,7 +13,6 @@
         - Verbal: 35%
         - Visual: 30%
         - Tactical: 35%
-- **Height:** 6 ft (183 cm)
 - **Dere Type:** Darudere
 - **Story:** [[Aurvara]]
 
@@ -157,6 +155,13 @@ _The style relies on_ fear and disorientation: Corv may leap over a foe, land be
 
 **Soul Sibling(s):** [[Connor-Caelen]]
 
+# Appearance
+
+- **Race(s):** [[Highborn Kin]], partly Dragon Kin
+- **Height:** 6 ft (183 cm)
+- **Eye(s):** Brown or none
+- **Hair:** Curly brown hair w/ red highlights
+- **etc.** 
 # Images
 
 ## Current Corvelan

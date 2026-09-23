@@ -35,9 +35,9 @@ None
 
 # Appearance
 
-- **Race:** 
+- **Race(s):** 
 - **Height:** 
-- **Eyes:** 
+- **Eye(s):** 
 - **Hair:** 
 - **etc.** 
 # Images

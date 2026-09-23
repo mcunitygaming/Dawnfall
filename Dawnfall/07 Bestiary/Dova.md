@@ -1,4 +1,4 @@
-**Dragons of Aurvara**
+**or Dragons of Aurvara**
 ## Overview
 
 - Ancient, mythical species of beast.

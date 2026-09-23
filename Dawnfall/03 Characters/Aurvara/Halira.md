@@ -4,9 +4,7 @@
 - **Nickname(s):** Hali, Lira, Miss. Kingdom-Class Wisp
 - **Hometown:** None
 - **Sex:** Female
-- **Race(s):** [[Highborn Kin]]
 - **Profession(s):** Student at Sunbreak Spire (Academics SC)
-- **Height:** 5 ft 4 in (163 cm)
 - **Story:** [[Aurvara]]
 
 ## Personality info
@@ -49,6 +47,13 @@ Wand, Standard Sunbreak Uniform(1st), Student Council Uniform(2nd-4th)
 
 **Soul Sibling:** None
 
+# Appearance
+
+- **Race(s):** [[Highborn Kin]]
+- **Height:** 5 ft 4 in (163 cm)
+- **Eye(s):** Hazel with a little blue
+- **Hair:** Blond w/ Brown high lights
+- **etc.** 
 # Images
 
 ### Current Halira

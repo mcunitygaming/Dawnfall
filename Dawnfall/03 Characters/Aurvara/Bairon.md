@@ -71,6 +71,13 @@ Bairon in all cases prefers ranged fighting as that's what from a child he felt 
 
 **Soul Sibling:** Byron
 
+# Appearance
+
+- **Race(s):** [[Highborn Kin]]
+- **Height:** 5 ft 4 in (162 cm)
+- **Eye(s):** 
+- **Hair:** 
+- **etc.** 
 # Images
 
 ## Current Bairon

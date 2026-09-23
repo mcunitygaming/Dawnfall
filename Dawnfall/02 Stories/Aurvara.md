@@ -82,8 +82,8 @@ There is a "**Soul-Link**" transition in the school seasons that functions as a 
 - **Focus:**
     - Resolution and aftermath
 - **Description:**
-    - Light and Dark magic escalate globally; demon threats and corrupted Devil Spirits become widespread. Characters face high-level challenges that test their abilities and bonds. Learning more about the dangers of the world's trees.
-    - World reshaping, character growth, setting up future stories, or spin-offs. Establishes the legacy of the trio, Sunbreak Spire, and their God Spirits. History explained. The trio goes on to make new relationships and live life. High-ranking places in kingdoms.
+    - Light and Dark magic escalate globally; Formation Engine threats and corrupted Devil Spirits become widespread. Characters face high-level challenges that test their abilities and bonds. Learning more about the dangers of the world's trees.
+    - World reshaping, character growth, setting up future stories, or spin-offs. Establishes the legacy of the trio. History explained. The trio goes on to make new relationships and live life.
 - **Tone:**
     - High-stakes, Suspenseful, Morally complex
     - Reflective, Triumphant, Slice of life, Comedy, Romance

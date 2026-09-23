@@ -4,9 +4,7 @@
 - **Nickname(s):** Hym, The Totem-Bearer, He Who Wears the Beasts
 - **Hometown:** The Evergreen Antler Clan (Deerman Tribe)
 - **Sex:** Male
-- **Race(s):** [[Beastborn Kin]] (Deer variant)
 - **Profession(s):** Student at Sunbreak Spire (Student Affairs SC), Future Matter Angel
-- **Height:** 6 ft 7 in (200 cm)
 - **Story:** [[Aurvara]]
 
 ## Personality info
@@ -104,7 +102,14 @@ Cian's combat style is focused on where others on his team lack, often carving t
 
 **Soul Sibling:** Caleb
 
-# Extra Images
+# Appearance
+
+- **Race(s):** [[Beastborn Kin]] (Deer variant)
+- **Height:** 6 ft 7 in (200 cm)
+- **Eye(s):** 
+- **Hair:** 
+- **etc.** 
+# Images
 
 ## Current Cian
 

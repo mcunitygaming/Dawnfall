@@ -2,11 +2,10 @@
 
 - [[Aurvara]]
 - [[Exodus]]
+- [[Game Story]]
 
 ## Universe
 
-- [[History]]
-- [[Cosmology]]
 - [[Magic Arts]]
 	- [[Physical Magic]]
 	- Elemental Arts
@@ -24,17 +23,45 @@
 		- [[God Spirit]]
 		- [[Vessel Frame]]
 		- [[Devil Spirit]]
+- Races of People
+	- [[Beastborn Kin]]
+	- [[Deepstone Kin]]
+	- [[Highborn Kin]]
+	- [[Siravell]]
+	- [[Sylfen]]
+- [[Cosmology]]
+- [[History]]
 - [[Realms]]
+
+## Stories
+- [[Aurvara]]
+- [[Exodus]]
+- [[Game Story]]
 
 ## Characters
 
-- [[Corvelan]]
-- [[Connor-Caelen]]
-- [[Bairon]]
-- [[Cian]]
-- [[Halira]]
-
+- [[Aurvara]]
+	- [[Corvelan]]
+	- [[Bairon]]
+	- [[Cian]]
+	- [[Halira]]
+- [[Exodus]]
+	- [[Connor-Caelen]]
+- [[Game Story]]
+	- 
 ## Organizations
 
-- [[The Shun]]
 - [[Sunbreak Spire]]
+- [[The Shun]]
+
+## Locations
+
+- [[World Trees]]
+## Items
+
+- [[Noctyra]]
+## Bestiary
+
+- [[Dova]]
+- [[Monocruph]]
+- [[Thoughtborn]]

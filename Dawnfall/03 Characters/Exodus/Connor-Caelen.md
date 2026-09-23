@@ -4,9 +4,7 @@
 - **Nicknames:** Forged from Steel, Deities' Dread, Rend.
 - **Hometown:** None
 - **Sex:** Male
-- **Race:** Human ([[Highborn Kin]]), Partly cyborg
 - **Profession:** Student (Connor) and Mercenary (Caelen)
-- **Height:** 6ft (183cm)
 - **Story:** [[Exodus]]
 
 ## Personality info
@@ -79,6 +77,13 @@ liquid plated metal arm, faceless mask
 
 **Soul Sibling:** [[Corvelan]]
 
+# Appearance
+
+- **Race(s):** Human ([[Highborn Kin]]), Partly cyborg
+- **Height:** 6ft (183cm)
+- **Eye(s):** Purple
+- **Hair:** Brown
+- **etc.** 
 # Images
 
 
