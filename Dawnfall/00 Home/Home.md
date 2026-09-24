@@ -62,6 +62,6 @@
 - [[Noctyra]]
 ## Bestiary
 
-- [[Dova]]
+- [[Dovah]]
 - [[Monocruph]]
 - [[Thoughtborn]]

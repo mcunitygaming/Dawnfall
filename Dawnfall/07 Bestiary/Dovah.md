@@ -22,6 +22,8 @@
 
 2. **Flight:**
     1. Strengthens the body with Physical Magic for lift and durability.
+    2. If a dragon has Air magic they can use it to have more control
+    3. Dragons can use fire as a booster for more speed
 
 3. **Innate Magic Mastery:**
     1. Dragons are **born with fully formed elemental magic cores**, meaning they do not need to absorb particles to awaken elemental powers.
