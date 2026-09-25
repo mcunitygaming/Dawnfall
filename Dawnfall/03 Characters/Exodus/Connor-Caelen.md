@@ -5,7 +5,7 @@
 - **Hometown:** None
 - **Sex:** Male
 - **Profession:** Student (Connor) and Mercenary (Caelen)
-- **Story:** [[Exodus]]
+- **Story:** [[Omega]]
 
 ## Personality info
 

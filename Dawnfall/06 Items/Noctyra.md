@@ -2,7 +2,7 @@
 
 Noctyra is a legendary sword known as the Soul Mirror Blade. It's a dark, unexplained blade that reflects the soul of its wielder, forming the perfect weapon for whoever uses it. 
 
-It is Owned by [[Corvelan]] currently and was originally wielded by the elven warriors companion explained in the [[Game Story]] note
+It is Owned by [[Corvelan]] currently and was originally wielded by the elven warriors companion explained in the [[Alpha]] note
 
 ## Corvelans Forms
 Corvelan finds the Noctyra in his time in the Thoughtborn realm laying in front of the entrance to the room holding the Imagination Machine.

@@ -1,8 +1,8 @@
 ## Stories
 
 - [[Aurvara]]
-- [[Exodus]]
-- [[Game Story]]
+- [[Omega]]
+- [[Alpha]]
 
 ## Universe
 
@@ -35,8 +35,8 @@
 
 ## Stories
 - [[Aurvara]]
-- [[Exodus]]
-- [[Game Story]]
+- [[Omega]]
+- [[Alpha]]
 
 ## Characters
 
@@ -45,9 +45,9 @@
 	- [[Bairon]]
 	- [[Cian]]
 	- [[Halira]]
-- [[Exodus]]
+- [[Omega]]
 	- [[Connor-Caelen]]
-- [[Game Story]]
+- [[Alpha]]
 	- 
 ## Organizations
 
