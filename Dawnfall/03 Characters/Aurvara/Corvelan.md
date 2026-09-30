@@ -55,7 +55,7 @@ Corvelan -> Cian
 
 ### Equipment
 
-Straight hands, Noctyra, Argentum, Disciplinary Committee Uniform(2nd-4th), Standard Sunbreak Uniform(1st), often seen with a top hat
+Straight hands, [[Noctyra]], Argentum, Disciplinary Committee Uniform(2nd-4th), Standard Sunbreak Uniform(1st), often seen with a top hat
 
 - **Argentum** - A mirror mask Corv uses to cover his eyes after using his god spirit. Silver metal and a completely faceless tide to his face by a bandana.
 

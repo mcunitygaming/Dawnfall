@@ -45,6 +45,7 @@
 	- [[Bairon]]
 	- [[Cian]]
 	- [[Halira]]
+	- [[Natalie Love]]
 - [[Omega]]
 	- [[Connor-Caelen]]
 - [[Alpha]]
