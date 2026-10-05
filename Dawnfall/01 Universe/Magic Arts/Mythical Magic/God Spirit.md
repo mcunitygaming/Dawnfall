@@ -37,6 +37,6 @@ God Spirits are **manifestations of a person’s highest potential and essence**
 
 ## Examples of God Spirits in Aurvara
 
-1. **Cian – The Verdant Stag**: Represents life, growth, and nature; unlocks Animal Totems. Linked to the Elemental Angels
+1. **Cian – The Verdant Stag**: Represents life, growth, and nature; unlocks Animal Totems. Linked to the Phase Angels
 2. **Bairon – The Kryha Arrow**: Represents precision, time, and control; unlocks Time + Ice magic binding. Linked to the Time Angel.
 3. **Corv – The Conscious Abyss**: Represents perception, darkness, and self-mastery; unlocks Hollow Iris and stabilizes Dark Magic. Linked to the Dark Angel.

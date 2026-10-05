@@ -15,7 +15,7 @@ None
 
 ### Magic Arts
 
-Physical Magic, None
+[[Physical Magic]], None
 
 ### Equipment
 

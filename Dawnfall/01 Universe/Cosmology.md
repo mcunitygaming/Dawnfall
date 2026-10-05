@@ -1,19 +1,18 @@
-In **Aurvara**, the supreme creator is the **Christian God** — the singular origin of all existence. From Him came **Ten Governing Angels**, each embodying a fundamental law of reality. These Angels are not “gods” by creation, but function as divine administrators of the world and are worshiped as such.
+In **Aurvara**, the supreme creator is the **Christian God** — the singular origin of all existence. From Him came **Ten Governing Angels**, each embodying a fundamental law of reality. These Angels are not “gods” by creation, but function as divine administrators of the world and are worshiped as such. It is known that Angels bless the [[World Trees]] to bring magic into this world.
 
 They do not typically interfere directly. Instead, their influence manifests through:
 - The [[Magic Arts]] system
 	- Laws
 		- Physical
-		- Elemental
+		- Phase
 		- Irregular
 		- Mythical
 	- Sacrifice
 		- Covenant of Growth
-		- Covenant of Allegiance
 
 The Ten Angels operate in balance:
 - Physical enables motion.
-- Elemental sustains the environment.
+- Phase sustains the environment.
 - Irregular governs the structure of reality.
 - Light and Dark counterweight presence and absence.
 
@@ -23,7 +22,7 @@ No Angel rules above another — except in origin.
 2. God created the Creation Angel
 3. Next came the Space, Time, and Matter Angels
 4. Later created was the Physical Angel
-5. Then the Elemental Angels were made
+5. Then the Phase Angels were made
 6. Lastly came the Light and Dark Angels
 
 ## Physical Angel
@@ -37,20 +36,20 @@ No Angel rules above another — except in origin.
 
 All living things unknowingly draw from this Angel.
 
-## Elemental Angels
-These Angels govern the four primal elemental forces. They represent tangible, visible power within the natural world. They often work together and mix to create and govern sub-elements. It is known that they bless the [[World Trees]] to bring magic into this world.
+## Phase Angels
+These Angels govern the three primal phases forces and the change between them. They represent tangible, visible power within the natural world. They often work together and mix to create and govern elements.
 
-- **Fire Angel**
-This Angel governs flame, heat, combustion, and energetic transformation. Associated with intensity, passion, destruction, and renewal.
+- **Gas Angel**
+This Angel governs wind, breath, vibration, and sound. Associated with freedom, speed, and communication.
 
-- **Water Angel**
+- **Liquid Angel**
 This Angel governs water, flow, currents, and adaptability. Associated with healing, emotion, patience, and persistence.
 
-- **Earth Angel**
+- **Solid Angel**
 This Angel governs stone, soil, metal, and structure. Associated with endurance, growth, stability, and permanence.
 
-- **Air Angel**
-This Angel governs wind, breath, vibration, and sound. Associated with freedom, speed, and communication.
+- **Temperature Angel**
+This Angel governs heat, freezing, combustion, and energetic transformation. Associated with intensity, passion, destruction, and renewal.
 
 ## Irregular Angels
 These Angels govern deeper laws of existence. They are rarer, more abstract, and often misunderstood.

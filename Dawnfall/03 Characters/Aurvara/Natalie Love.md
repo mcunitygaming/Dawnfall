@@ -15,7 +15,7 @@ An average student at Sunbreak Spire. She was mostly like everyone else except t
 
 ### Magic Arts
 
-[[Physical Magic]] (Pure Magic), [[Fire Magic]], [[Matter Magic]] (Music Magic)
+[[Physical Magic]] (Pure Magic), [[Temperature]] (Fire), [[Matter Magic]] (Music Magic)
 
 ### Equipment
 

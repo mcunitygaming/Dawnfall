@@ -1,18 +1,13 @@
-## Stories
-
-- [[Aurvara]]
-- [[Omega]]
-- [[Alpha]]
-
+Looking for sum?
 ## Universe
 
 - [[Magic Arts]]
 	- [[Physical Magic]]
-	- Elemental Arts
-		- [[Air Magic]]
-		- [[Fire Magic]]
-		- [[Earth Magic]]
-		- [[Water Magic]]
+	- Phase Arts
+		- [[Gas Magic]]
+		- [[Temperature]]
+		- [[Solid Magic]]
+		- [[Liquid Magic]]
 	- Irregular Arts
 		- [[Space Magic]]
 		- [[Time Magic]]
@@ -34,12 +29,16 @@
 - [[Realms]]
 
 ## Stories
+
+- [[Alpha]]
 - [[Aurvara]]
 - [[Omega]]
-- [[Alpha]]
 
 ## Characters
 
+- [[Alpha]]
+	- Elven Protagonist
+	- Protagonists Companion
 - [[Aurvara]]
 	- [[Corvelan]]
 	- [[Bairon]]
@@ -48,8 +47,7 @@
 	- [[Natalie Love]]
 - [[Omega]]
 	- [[Connor-Caelen]]
-- [[Alpha]]
-	- 
+
 ## Organizations
 
 - [[Sunbreak Spire]]

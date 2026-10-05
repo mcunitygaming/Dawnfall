@@ -51,7 +51,7 @@ Corvelan -> Cian
 
 ### Magic Art(s)
 
-[[Physical Magic]], [[Fire Magic]], Perfect [[Space Magic]], Dormant [[Dark Magic]], [[God Spirit]], and [[Vessel Frame]]
+[[Physical Magic]], [[Temperature]] (Fire Variant), Perfect [[Space Magic]], Dormant [[Dark Magic]], [[God Spirit]], and [[Vessel Frame]]
 
 ### Equipment
 
