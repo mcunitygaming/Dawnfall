@@ -5,7 +5,7 @@
 - Masters of their innate **Magic**.
 - Capable of catastrophic destruction even as young adults.
 - Some dragons can reach **God-level power**, but most avoid interfering with lower beings.
-- Dragons are smart just not as smart as XXXXXXXXX
+- Dragons are intelligent creatures just not to the level of the whole race of humans
 
 ### Physical Traits
 

@@ -7,5 +7,5 @@
 	- Magic they deals with the nonphysical parts of the universe like mind control and hallucinations. This is mostly paired with dark magic for more of a kick and easier use.
 - **Pure Magic**
 	- Basic magic that is just pure energy. It can be used to create barriers and things like rays or beams too. Telekinesis
-- **Creature/Animalistic Magic**
-	- Physical magic can be used to tame beasts, along with it becoming easier to tame elemental beasts when you bond Physical magic to the same element as the beast the user is trying to tame.
+- **Fauna/Flora Magic**
+	- Physical magic can be used to tame animals or plants. You can make it easier to tame a elemental creature when you mix your physical magic with the same element as the creature you are trying to tame. This is how you can get plant magic.
