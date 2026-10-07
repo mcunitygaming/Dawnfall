@@ -14,7 +14,7 @@
         - Visual: 30%
         - Tactical: 35%
 - **Dere Type:** Darudere
-- **Story:** [[Aurvara]]
+- **Story:** [[2 Aurvara]]
 
 ## Personality Info
 

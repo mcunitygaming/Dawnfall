@@ -4,17 +4,15 @@
 - **Nickname(s):** Rin, (The Time Archer of Death?)
 - **Hometown:** Highveil
 - **Sex:** Male
-- **Race(s):** [[Highborn Kin]]
 - **Profession(s):** Student at Sunbreak Spire (Administration SC), Future Time Angel
-- **Height:** 5 ft 4 in (162 cm)
 - **Dere Type:** Tsundere / Kuudere mix
-- **Story:** [[Aurvara]]
+- **Story:** [[2 Aurvara]]
 
 ## Personality info
 
-Childhood: Rin discovered his talent for the bow, Water Magic and Wind Magic, which was highly praised by his parents especially his rare gift Time Magic. Rin grew up different from the other kids which leading him always being alone. Because of this he always felt this lonely sensation and made him think something was wrong with everyone, with this eventually leading to him being very cocky and bratty causing many kids to not like him and later had a fight with another child, causing his eye to be stabbed and shamed by his parents. Getting physically injured and losing an eye was already hard on Rin but getting shamed by his parents who seemed to be the only people who loved Rin and didn't seem so different made it even worse, leading to him becoming a Perfectionist because him not being perfect made him think he has to be perfect in order for his parents to love him. As a result of this event, he goes on to try to perfect other forms of combat besides range. As people know "Talent is useless without hard work" and so, Rin puts in the hard work to be the strongest and smartest in Sunbreak. Though, he is the best he still has flaws he yet is aware of yet.
+**Childhood:** As a child, Rin discovers his talent for the bow, which his parents highly praised, along with his rare gift of Time Magic. Rin grew up with a different social standing than the other kids; because of this, he always felt lonely, making him think something was wrong with others and eventually leading him to become aggressive and cocky. Many kids did not like Bairon due to his arrogant behavior, and he later got into a fight with another child, which led to Bairon's eye being stabbed. Getting physically injured and losing an eye was already hard on Rin, but because of his loss, Bairon's parents were very disappointed, even shaming him in front of others. Since Rin was so young at this time, he developed perfectionist traits that carried him into Sunbreak Spire, learning and mastering many forms of combat besides range.
 
-Sunbreak Spire (arc?): Rin is the top student at Sunbreak and some say he's amazing and is a bit popular while others dislike him for how he acts towards others. Though every time someone talks to him or is friendly he has this kuudere type act he has and always gets flustered and scared as he's not used to it at all. He is very socially overanalytical and may sometimes think someone's thinking bad about him. Rin tends to try and push people away from getting scared. Rin is the type of guy he does not care for others except for himself as he thinks everyone hates him. If Rin makes a mistake or is bad at something he will bring himself down but later try and fix the mistake or become good at what he was bad at.
+**Sunbreak Spire (arc?):** Rin is a top student at Sunbreak, with many aspiring to learn from him, but because of his perfectionist tendencies, some would say he is rude and negative. Due to his isolation in his younger years, much of social interaction is hard and flustering for him, appearing rude. Bairon is very socially anxious, often being overly analytical about his surroundings. Rin is so socially withdrawn that he sees everyone as if they hate him. When Bairon messes up or fails at something, he can get so obsessed with his struggle that he'll train till his hands bleed.
 
 ## World (Combat/Life/Extra) Information
 

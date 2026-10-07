@@ -5,7 +5,7 @@
 - **Hometown:** The Evergreen Antler Clan (Deerman Tribe)
 - **Sex:** Male
 - **Profession(s):** Student at Sunbreak Spire (Student Affairs SC), Future Matter Angel
-- **Story:** [[Aurvara]]
+- **Story:** [[2 Aurvara]]
 
 ## Personality info
 

@@ -30,22 +30,22 @@ Looking for sum?
 
 ## Stories
 
-- [[Alpha]]
-- [[Aurvara]]
-- [[Omega]]
+- [[1 Alpha]]
+- [[2 Aurvara]]
+- [[3 Omega]]
 
 ## Characters
 
-- [[Alpha]]
+- [[1 Alpha]]
 	- Elven Protagonist
 	- Protagonists Companion
-- [[Aurvara]]
+- [[2 Aurvara]]
 	- [[Corvelan]]
 	- [[Bairon]]
 	- [[Cian]]
 	- [[Halira]]
 	- [[Natalie Love]]
-- [[Omega]]
+- [[3 Omega]]
 	- [[Connor-Caelen]]
 
 ## Organizations

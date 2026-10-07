@@ -5,7 +5,7 @@
 - **Hometown:** None
 - **Sex:** Male
 - **Profession:** Student (Connor) and Hired Hand (Caelen)
-- **Story:** [[Omega]]
+- **Story:** [[3 Omega]]
 
 ## Personality info
 

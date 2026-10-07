@@ -7,7 +7,7 @@ This weapon is one of the creations of the Formation Engine before the events of
 Ownership
 1. Formation Engine Scientist
 	- Created from an illegal test of the Form E
-2. [[Alpha]] Protagonist's companion
+2. [[1 Alpha]] Protagonist's companion
 	- Unknown
 3. Corvelan
 	- Found it around the center of the Thoughtborn Realm near the Formation Engine 

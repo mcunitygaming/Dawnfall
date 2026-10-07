@@ -1,5 +1,5 @@
 ## [[History]] Cover
-Following the Exodus, the lost humans returned after realizing the outside world was uninhabitable. Their return sparked a war for land, as their home continent was the **only place with lush vegetation**. During this time, **an elf was banished** from their tribe for killing an attacker in defense of their family.
+Following the Exodus, the lost humans returned after realizing the outside world was uninhabitable. Their return sparked a war for land, as their home continent was the **only place with land and lush vegetation**. During this time, **an elf was banished** from their tribe for killing an attacker in defense of their family.
 
 As the story progresses, ancient high-tech weapons and tools are used to burn the world's trees and destroy historical records, reverting the world to a **mixed medieval culture**. The banished elf eventually travels the globe, ends the war, and seals the imagination machine in one of the [[Realms]] known as **the thoughtborn realm** and even explored the [[World Trees]]. He becomes the first of four individuals to reach the "Ascendant" power level, fulfilling a prophecy that **one hero has arrived and three are yet to come**.
 

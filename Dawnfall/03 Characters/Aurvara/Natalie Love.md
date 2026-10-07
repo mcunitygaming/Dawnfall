@@ -5,7 +5,7 @@
 - **Hometown:** None
 - **Sex:** Female
 - **Profession:** Student at [[Sunbreak Spire]]
-- **Story:** [[Aurvara]]
+- **Story:** [[2 Aurvara]]
 
 ## Personality info
 
