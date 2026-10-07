@@ -3,9 +3,9 @@
 - **Name:** None
 - **Nicknames:** None
 - **Hometown:** None
-- **Sex:** None
-- **Profession:** None
-- **Story:** None
+- **Sex:** Male
+- **Profession:** Sunbreak Spire principal
+- **Story:** [[2 Aurvara]]
 
 ## Personality info
 
@@ -15,7 +15,7 @@ None
 
 ### Magic Arts
 
-[[Physical Magic]], None
+[[Physical Magic]], Perfect [[Space Magic]], 
 
 ### Equipment
 

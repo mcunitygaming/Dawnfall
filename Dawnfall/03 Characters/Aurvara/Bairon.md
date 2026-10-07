@@ -4,7 +4,7 @@
 - **Nickname(s):** Rin, (The Time Archer of Death?)
 - **Hometown:** Highveil
 - **Sex:** Male
-- **Profession(s):** Student at Sunbreak Spire (Administration SC), Future Time Angel
+- **Profession(s):** Student at Sunbreak Spire (External Affairs SC), Future Time Angel
 - **Dere Type:** Tsundere / Kuudere mix
 - **Story:** [[2 Aurvara]]
 
@@ -63,7 +63,7 @@ Bairon in all cases prefers ranged fighting as that's what from a child he felt 
 
 **Sibling(s):** Roderic Leorin (Middle Brother) and Fenric Leorin (Little Brother)
 
-**Friend(s):** [[Corvelan]] Aldren McCaleth, [[Cian]] Hymvar Evergreen, [[Halira]]
+**Friend(s):** [[Corvelan]] Aldren McCaleth, [[Cian]] Hymvar Evergreen
 
 **Love interest:** none (yet)
 

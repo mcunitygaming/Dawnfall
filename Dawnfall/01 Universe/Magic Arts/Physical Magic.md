@@ -2,6 +2,7 @@
 
 ## Versions
 - **Physical Magic**
+	- Everyone can use it
 	- It can be moved through the body or into objects to reinforce, strengthen, or other stats, which makes it essential for an aspiring swordsman. After mastery, the user becomes so powerful that they can destroy small towns in a single hit.
 - **Mental Magic**
 	- Magic they deals with the nonphysical parts of the universe like mind control and hallucinations. This is mostly paired with dark magic for more of a kick and easier use.

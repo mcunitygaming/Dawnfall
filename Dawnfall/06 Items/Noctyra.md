@@ -18,7 +18,7 @@ Ownership
 
 ### Armor Form
 
-When Corvelan isn't using Noctyra to fight, he will force it to take the form of rings or things that attach all over his body, then he'd raise the weight of it, causing strain on his body, making even slight movements a workout
+When Corvelan isn't using Noctyra to fight, he will force it to take the form of rings or things that attach all over his body, then he would increase the weight of, causing strain on his body, making even slight movements a workout
 
 ### Weapon Form
 

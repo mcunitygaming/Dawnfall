@@ -24,7 +24,7 @@ Cian is a nice and thoughtful person, as shown by his care for others. You would
 
 ### Magic Arts
 
-[[Physical Magic]], [[Matter Magic]] (Cooking magic), Plant Magic, [[Solid Magic]] (Earth), [[Liquid Magic]] (Water), [[God Spirit]], and [[Vessel Frame]]
+[[Physical Magic]] (Flora Magic), [[Matter Magic]] (Cooking magic), [[Solid Magic]] (Earth), [[God Spirit]], and [[Vessel Frame]]
 
 ### Equipment
 

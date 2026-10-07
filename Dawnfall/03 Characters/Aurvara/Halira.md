@@ -27,7 +27,7 @@ At the start of the story, she is one of the most academically intelligent chara
 
 ### Magic Arts
 
-[[Physical Magic]], [[Matter Magic]], [[Liquid Magic]], [[Light Magic]]
+[[Physical Magic]] (Pure and Fauna), [[Matter Magic]], [[Liquid Magic]] (Water), [[Light Magic]]
 
 ### Equipment
 
