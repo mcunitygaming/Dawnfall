@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dawnfall/01 Universe/Magic Arts/Magic Arts.md",
+                "file": "Dawnfall/03 Characters/Alpha/Mercy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Arts"
+              "title": "Mercy"
             }
           }
         ]
@@ -190,27 +190,32 @@
   },
   "active": "29bbc34e6d3f1a85",
   "lastOpenFiles": [
+    "Dawnfall/Assets/Templates/Character Template.md",
+    "Dawnfall/03 Characters/Alpha/Mercy.md",
+    "Dawnfall/02 Stories/1 Alpha.md",
+    "Dawnfall/03 Characters/Alpha/Elven protangonist.md",
+    "Dawnfall/01 Universe/Races of People/Siravell.md",
+    "Dawnfall/01 Universe/Races of People/Sylfen.md",
+    "Dawnfall/01 Universe/Races of People/Highborn Kin.md",
+    "Dawnfall/01 Universe/Races of People/Deepstone Kin.md",
+    "Dawnfall/01 Universe/Races of People/Beastborn Kin.md",
+    "Dawnfall/03 Characters/Omega/Connor-Caelen.md",
+    "Dawnfall/03 Characters/Aurvara/Corvelan.md",
+    "Dawnfall/03 Characters/Alpha",
+    "Dawnfall/02 Stories/0 Lucidious.md",
+    "Dawnfall/01 Universe/Magic Arts/Magic Arts.md",
     "Dawnfall/01 Universe/Magic Arts/Mythical Magic/God Spirit.md",
     "Dawnfall/01 Universe/Magic Arts/Mythical Magic/Devil Spirit.md",
     "Dawnfall/01 Universe/Magic Arts/Mythical Magic/Vessel Frame.md",
-    "Dawnfall/01 Universe/Magic Arts/Magic Arts.md",
-    "Dawnfall/03 Characters/Aurvara/Corvelan.md",
     "Dawnfall/03 Characters/Aurvara/Cian.md",
     "Dawnfall/03 Characters/Aurvara/Bairon.md",
-    "Dawnfall/03 Characters/Omega/Connor-Caelen.md",
     "Dawnfall/04 Organizations/Sunbreak Spire.md",
     "Dawnfall/03 Characters/Aurvara/Halira.md",
     "Dawnfall/07 Bestiary/Dovah.md",
     "Dawnfall/07 Bestiary/Monocruph.md",
     "Dawnfall/00 Home/Home.md",
     "Dawnfall/03 Characters/Aurvara/Evans character.md",
-    "Dawnfall/Assets/Templates/Character Template.md",
     "README.md",
-    "Dawnfall/01 Universe/Realms.md",
-    "Dawnfall/01 Universe/Cosmology.md",
-    "Dawnfall/01 Universe/History.md",
-    "Dawnfall/07 Bestiary/Thoughtborn.md",
-    "Dawnfall/02 Stories/Alpha.md",
-    "Dawnfall/02 Stories/Omega.md"
+    "Dawnfall/01 Universe/Realms.md"
   ]
 }

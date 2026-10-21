@@ -1,4 +1,4 @@
-This is a horror story I created when I was a kid and want to write down these ideas before they are lost.
+This is a horror story I created when I was a kid and I wish to preserve it.
 
 ## Chapter 1
 In this chapter the main character, named Gus, starts his adventure into darker realms as a child ~8 years old.
@@ -18,4 +18,5 @@ This chapter Gus is now a young adult going through his normal life but still ha
 
 **Day:** Waking up, Gus will find he is in the old island from his first dream again. 
 
-**Day:** **He will be sitting in the rocking chair and will fall asleep peacefully and the screen will go black and the credits will roll or if you have all the pieces of paper he will get up from his chair and walk to the door and go out of his house and find himself in an endless hedge he will turn around and find out that the house is gone it's just endless hedge now and down to the left under the hedge there will be the last piece of the picture(The picture is a picture of him on a bench and looking out at you)he will put it in the picture and it is lucidious in the top right in the spot of the missing piece which then the ink will come out of the painting and he will be put into the picture** 
+I don't feel like fixing the grammer
+(**Day:** **He will be sitting in the rocking chair and will fall asleep peacefully and the screen will go black and the credits will roll or if you have all the pieces of paper he will get up from his chair and walk to the door and go out of his house and find himself in an endless hedge he will turn around and find out that the house is gone it's just endless hedge now and down to the left under the hedge there will be the last piece of the picture(The picture is a picture of him on a bench and looking out at you)he will put it in the picture and it is lucidious in the top right in the spot of the missing piece which then the ink will come out of the painting and he will be put into the picture**)

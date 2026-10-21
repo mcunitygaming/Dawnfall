@@ -46,6 +46,10 @@ Corvelan - Motto
 Corvelan -> Cian
 
 "A heart is a tool... A tool for those without one."
+Corvelan - lost
+
+"Show me you version of victory and when you cannot or will not I'll show you mine."\
+Corvelan -> Halira
 
 ## World (Combat/Life/Extra) Information
 
