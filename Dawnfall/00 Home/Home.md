@@ -21,7 +21,7 @@ Looking for sum?
 - Races of People
 	- [[Beastborn Kin]]
 	- [[Deepstone Kin]]
-	- [[Highborn Kin]]
+	- [[Highborn Kind]]
 	- [[Siravell]]
 	- [[Sylfen]]
 - [[Cosmology]]
@@ -30,6 +30,7 @@ Looking for sum?
 
 ## Stories
 
+- [[0 Lucidious]]
 - [[1 Alpha]]
 - [[2 Aurvara]]
 - [[3 Omega]]
@@ -37,8 +38,8 @@ Looking for sum?
 ## Characters
 
 - [[1 Alpha]]
-	- Elven Protagonist
-	- Protagonists Companion
+	- [[Elven Protagonist]]
+	- [[Mercy]]
 - [[2 Aurvara]]
 	- [[Corvelan]]
 	- [[Bairon]]
@@ -57,6 +58,7 @@ Looking for sum?
 ## Locations
 
 - [[World Trees]]
+- [[Sunbreak Spire Campus]]
 ## Items
 
 - [[Noctyra]]

@@ -9,36 +9,36 @@
 
 ## Personality info
 
-Mercy barely speaks and tells no one his name thats why they refer to him as "Mercy" after his occupation
+Mercy barely speaks and tells no one his name that's why they refer to him as "Mercy" after his occupation. Despite being called "Mercy" he has no problem with killing and will choose that path in many situations.
 
 ## World (Combat/Life/Extra) Information
 
 ### Magic Arts
 
-Physical Magic, None
+[[Physical Magic]], [[Dark Magic]], 
 
 ### Equipment
 
-None
+[[Noctyra]], 
 
 ## Relationships
 
-**Dad:** None
+**Dad:** Null
 
-**Mom:** None
+**Mom:** Null
 
-**Sibling(s):** None
+**Sibling(s):** Null
 
-**Friend(s):** None
+**Friend(s):** [[Elven Protagonist]]
 
 **Love interest:** None
 
 # Appearance
 
-- **Race(s):** 
-- **Height:** 
-- **Eye(s):** 
-- **Hair:** 
+- **Race(s):** [[Highborn Kind]]
+- **Height:** 6ft
+- **Eye(s):** brown
+- **Hair:** brown
 - **etc.** 
 # Images
 

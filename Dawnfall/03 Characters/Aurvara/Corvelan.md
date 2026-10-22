@@ -161,7 +161,7 @@ _The style relies on_ fear and disorientation: Corv may leap over a foe, land be
 
 # Appearance
 
-- **Race(s):** [[Highborn Kin]], partly Dragon Kin
+- **Race(s):** [[Highborn Kind]], [[Dovah]]
 - **Height:** 6 ft (183 cm)
 - **Eye(s):** Brown or none
 - **Hair:** Curly brown hair w/ red highlights

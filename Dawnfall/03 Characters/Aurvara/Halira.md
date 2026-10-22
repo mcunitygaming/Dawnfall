@@ -49,7 +49,7 @@ Wand, Standard Sunbreak Uniform(1st), Student Council Uniform(2nd-4th)
 
 # Appearance
 
-- **Race(s):** [[Highborn Kin]]
+- **Race(s):** [[Highborn Kind]]
 - **Height:** 5 ft 4 in (163 cm)
 - **Eye(s):** Hazel with a little blue
 - **Hair:** Blond w/ Brown high lights

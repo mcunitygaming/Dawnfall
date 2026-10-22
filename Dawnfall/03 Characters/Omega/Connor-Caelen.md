@@ -64,7 +64,7 @@ Connor has practiced many versions of martial arts for example: Taekwondo, Boxin
 
 # Appearance
 
-- **Race(s):** Human ([[Highborn Kin]]), Partly cyborg
+- **Race(s):** Human ([[Highborn Kind]]), Partly cyborg
 - **Height:** 6ft (183cm)
 - **Eye(s):** Purple
 - **Hair:** Brown
