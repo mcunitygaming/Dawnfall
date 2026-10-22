@@ -5,7 +5,7 @@ Noctyra is a legendary item known as a Soul Mirror. It's a dark, unexplained ite
 This item is one of the creations of the Formation Engine before the events of Alpha.
 
 Ownership
-1. Formation Engine Scientist
+1. [[Doctor]]
 	- Created from an illegal test of the Form E
 2. [[Mercy]]
 	- Unknown how he obtained it

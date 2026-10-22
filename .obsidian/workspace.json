@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dawnfall/06 Items/Noctyra.md",
+                "file": "Dawnfall/03 Characters/Alpha/Doctor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noctyra"
+              "title": "Doctor"
             }
           }
         ]
@@ -190,8 +190,13 @@
   },
   "active": "29bbc34e6d3f1a85",
   "lastOpenFiles": [
+    "Dawnfall/01 Universe/History.md",
+    "Dawnfall/03 Characters/Alpha/Doctor.md",
+    "Dawnfall/01 Universe/Realms.md",
     "Dawnfall/03 Characters/Alpha/Mercy.md",
+    "Dawnfall/Assets/Templates/Character Template.md",
     "Dawnfall/06 Items/Noctyra.md",
+    "Dawnfall/05 Locations/Sunbreak Spire Campus.md",
     "Pasted image 20261022084113.png",
     "![[Pasted.md",
     "().md",
@@ -204,19 +209,14 @@
     "Dawnfall/03 Characters/Aurvara/Bairon.md",
     "Dawnfall/03 Characters/Aurvara/Corvelan.md",
     "Dawnfall/04 Organizations/Sunbreak Spire.md",
-    "Dawnfall/05 Locations/Sunbreak Spire Campus.md",
     "Dawnfall/00 Home/Home.md",
     "Untitled.md",
     "Dawnfall/02 Stories/1 Alpha.md",
     "Dawnfall/01 Universe/Races of People/Highborn Kind.md",
     "Dawnfall/02 Stories/2 Aurvara.md",
-    "Dawnfall/Assets/Templates/Character Template.md",
     "Dawnfall/01 Universe/Races of People/Siravell.md",
     "Dawnfall/01 Universe/Races of People/Sylfen.md",
     "Dawnfall/01 Universe/Races of People/Deepstone Kin.md",
-    "Dawnfall/01 Universe/Races of People/Beastborn Kin.md",
-    "Dawnfall/03 Characters/Omega/Connor-Caelen.md",
-    "Dawnfall/03 Characters/Alpha",
-    "Dawnfall/02 Stories/0 Lucidious.md"
+    "Dawnfall/03 Characters/Alpha"
   ]
 }
