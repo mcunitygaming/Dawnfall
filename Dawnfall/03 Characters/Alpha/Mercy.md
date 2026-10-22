@@ -15,12 +15,11 @@ Mercy barely speaks and tells no one his name that's why they refer to him as "M
 
 ### Magic Arts
 
-[[Physical Magic]], [[Dark Magic]], 
+[[Physical Magic]], [[Dark Magic]]
 
 ### Equipment
 
-[[Noctyra]], 
-
+[[Noctyra]]
 ## Relationships
 
 **Dad:** Null
@@ -40,6 +39,7 @@ Mercy barely speaks and tells no one his name that's why they refer to him as "M
 - **Eye(s):** brown
 - **Hair:** brown
 - **etc.** 
+	- Mercy has a scar on top middle of his back which alters the look of any clothes he wears to show it. The scar looks like "><>" but the fish is bleeding.
 # Images
 
 
