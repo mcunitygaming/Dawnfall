@@ -35,7 +35,7 @@ A flower hairclick, Standard Sunbreak Uniform
 
 # Appearance
 
-- **Race(s):** [[Highborn Kin]]
+- **Race(s):** [[Highborn Kind]]
 - **Height:** 5'4"
 - **Eye(s):** Emerald green
 - **Hair:** Red

@@ -19,7 +19,7 @@ All stats are measured on a standardized scale where:
 
 ### Format Example:
 
-**Spatial Awareness / Memory / Processing Speed**  
+**Awareness / Memory / Processing Speed**  
 Example: **120 / 95 / 110**
 
 #### Two-State Evaluation System
@@ -29,7 +29,7 @@ Each stat is recorded in two separate values:
 The applicant’s present cognitive performance under controlled testing conditions.
 
 ##### 2. Maximum Potential
-The highest estimated stable development ceiling achievable through:
+The highest estimated development ceiling achievable through:
 
 - training
 - environmental pressure
@@ -454,45 +454,6 @@ Prestigious, influential, future leaders.
 #### Reputation
 Feared, respected, whispered about.
 
-## Regions
-
-### Restricted Zones
-
-- Archmage’s Tower (Spellforged+)
-- God's Vessel Arena (God Spirit resonance or Prime Vessel Gene possession)
-- Lost Library of Spells (School Staff Only)
-
-### Districts & Zones
-
-- Learning District (Classrooms)
-    - Classrooms
-    - Forest Zones
-
-- Combat District (Training Arenas)
-    - Magic Arenas
-    - Combat Fields
-
-- Residential District (Dorms)
-    - Male Dorms
-    - Female Dorms
-    - Staff Homes
-
-- Commercial District (Markets)
-    - Marketplace
-    - Entrance Hall
-    - Student Entertainment
-
-### Floating City Features
-
-- Shifting architecture
-- Sky bridges
-- Elemental weather control
-- Central Spire with pocket-dimension authority
-
-### Entrance Hall
-
-![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/e70c4c7e-8ac5-4dca-880a-295d461e8ac9/uploads/images/568152466e6d9c9c1990900ea48c8f5e.jpeg)
-
 ## Uniform System
 
 ### Standard Academic Uniform
@@ -532,6 +493,8 @@ Feared, respected, whispered about.
 - Prohibited enchantments: strength boosters and/or curse charms
 - Enforcement authority: the faculty and student council make and enforce rules (no physical enforcement)
 
+#### Image
+
 ![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/e70c4c7e-8ac5-4dca-880a-295d461e8ac9/uploads/images/85378befe1ddbf3f675deabda1530588.jpeg)
 
 ### Combat Uniform
@@ -554,6 +517,8 @@ Feared, respected, whispered about.
 
 - Approved zones: only when training and/or teacher request
 
+#### Image
+
 ![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/e70c4c7e-8ac5-4dca-880a-295d461e8ac9/uploads/images/9942a47c4390d965c55303e26c71141a.jpeg)
 
 ### Student Council Uniform
@@ -572,6 +537,8 @@ Feared, respected, whispered about.
 - Ring permissions interaction: beacon for disciplinary committee members
 - Event-related functions: voice projection or communication
 
+#### Image
+
 ![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/e70c4c7e-8ac5-4dca-880a-295d461e8ac9/uploads/images/91c957a002f632ffad6300edc735e45f.jpeg)
 
 ### Disciplinary Committee Uniform
@@ -588,6 +555,8 @@ Feared, respected, whispered about.
 
 - Suppression systems: allow passing through the shielded zone
 - Tracking or alert systems: track and alert staff overuse
+
+#### Image
 
 ![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/e70c4c7e-8ac5-4dca-880a-295d461e8ac9/uploads/images/d78b5349777d87b51801b5b703ba269b.jpeg)
 
