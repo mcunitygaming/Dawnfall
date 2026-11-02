@@ -35,8 +35,8 @@ Creator of [[Magic Arts]][^3] and he used all of them through artifacts he creat
 
 # Appearance
 
-- **Race(s):** 
-- **Height:** 
+- **Race(s):** Human
+- **Height:** 5ft 10in
 - **Eye(s):** 
 - **Hair:** 
 - **etc.** 

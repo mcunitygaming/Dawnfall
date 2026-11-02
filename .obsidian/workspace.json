@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dawnfall/03 Characters/Alpha/Doctor.md",
+                "file": "Dawnfall/04 Organizations/Sunbreak Spire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doctor"
+              "title": "Sunbreak Spire"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dawnfall/06 Items/Noctyra.md",
+                "file": "Dawnfall/03 Characters/Aurvara/Corvelan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,12 +170,12 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,33 +190,33 @@
   },
   "active": "29bbc34e6d3f1a85",
   "lastOpenFiles": [
-    "Dawnfall/01 Universe/History.md",
-    "Dawnfall/03 Characters/Alpha/Doctor.md",
-    "Dawnfall/01 Universe/Realms.md",
-    "Dawnfall/03 Characters/Alpha/Mercy.md",
-    "Dawnfall/Assets/Templates/Character Template.md",
-    "Dawnfall/06 Items/Noctyra.md",
     "Dawnfall/05 Locations/Sunbreak Spire Campus.md",
+    "Dawnfall/04 Organizations/Sunbreak Spire.md",
+    "Dawnfall/00 Home/Home.md",
+    "Dawnfall/03 Characters/Aurvara/Corvelan.md",
+    "Dawnfall/03 Characters/Omega/Connor-Caelen.md",
+    "Dawnfall/01 Universe/Magic Arts/Physical Magic.md",
+    "Dawnfall/06 Items/Noctyra.md",
+    "Dawnfall/03 Characters/Doctor.md",
+    "Dawnfall/03 Characters/Alpha/Elven Protagonist.md",
+    "Dawnfall/03 Characters/Alpha/Mercy.md",
+    "Dawnfall/01 Universe/History.md",
+    "Dawnfall/01 Universe/Realms.md",
+    "Dawnfall/Assets/Templates/Character Template.md",
     "Pasted image 20261022084113.png",
     "![[Pasted.md",
     "().md",
     "Dawnfall/01 Universe/Magic Arts/Magic Arts.md",
-    "Dawnfall/03 Characters/Alpha/Elven Protagonist.md",
     "Dawnfall/03 Characters/Aurvara/Evans character.md",
     "Dawnfall/03 Characters/Aurvara/Halira.md",
     "Dawnfall/03 Characters/Aurvara/Natalie Love.md",
     "Dawnfall/03 Characters/Aurvara/Cian.md",
     "Dawnfall/03 Characters/Aurvara/Bairon.md",
-    "Dawnfall/03 Characters/Aurvara/Corvelan.md",
-    "Dawnfall/04 Organizations/Sunbreak Spire.md",
-    "Dawnfall/00 Home/Home.md",
     "Untitled.md",
     "Dawnfall/02 Stories/1 Alpha.md",
     "Dawnfall/01 Universe/Races of People/Highborn Kind.md",
     "Dawnfall/02 Stories/2 Aurvara.md",
     "Dawnfall/01 Universe/Races of People/Siravell.md",
-    "Dawnfall/01 Universe/Races of People/Sylfen.md",
-    "Dawnfall/01 Universe/Races of People/Deepstone Kin.md",
     "Dawnfall/03 Characters/Alpha"
   ]
 }

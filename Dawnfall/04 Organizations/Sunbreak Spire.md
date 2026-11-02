@@ -1,6 +1,8 @@
 # Base Information
 
-Sunbreak Spire is a school for all races of people, located in one of the pocket [[Realms]] which is owned by the headmaster. The students attend the school for 4 years; their 1st year starts with a **letter** being sent to their door, and after opening and reading it, a portal forms that leads to the entrance hall. After the entrance ceremony, which is just a speech by the Headmaster and the Student Council President, the 1st years will be put through **acceptance tests** to determine whether they stay at Sunbreak. Once they have passed the tests, the students will get a ring that gives a multitude of perks. During the Acceptance Tests, every applicant is evaluated not only for admission eligibility but also for their **mental structure, cognitive potential, and learning compatibility**. These results are recorded in a standardized profile used by faculty, the Student Council, and the Disciplinary Committee for placement and training optimization.
+Sunbreak Spire is a school for all races of people, located in one of the pocket [[Realms]] which is owned by the headmaster. The students attend the school for 4 years; their 1st year starts with a **letter** being sent to their door, and after opening and reading it, a portal forms that leads to the entrance hall. After the entrance ceremony, which is just a speech by the Headmaster and the Student Council President, the 1st years will be put through **acceptance tests** to determine whether they stay at Sunbreak. Once they have passed the tests, the students will get a ring that grants a multitude of perks.
+
+During the Acceptance Tests, every applicant is evaluated not only for admission eligibility but also for their **mental structure, cognitive potential, and learning compatibility**. These results are recorded in a standardized profile used by faculty, the Student Council, and the Disciplinary Committee for placement and training optimization.
 
 ## 1. Mental Ability Measurement
 
@@ -32,9 +34,9 @@ The applicant’s present cognitive performance under controlled testing conditi
 The highest estimated development ceiling achievable through:
 
 - training
-- environmental pressure
+- pressure
 - magical maturation
-- experience exposure
+- experience
 
 ##### Format Example:
 Current: **110 / 100 / 105**  
@@ -125,7 +127,7 @@ Example Profile:
 - Lunch / Free Time
 - Student Buddy: 15:30 – 17:00
 
-## Class Curriculum
+## Class Curriculums
 
 ### Student Missions
 
@@ -151,49 +153,49 @@ Some students can apply to be sent on missions outside the school campus
 - Magic Realm bleed zones
 - destroyed the World Tree islands
 
-## YEARS 1–2: FOUNDATION YEARS
+### YEARS 1–2: FOUNDATION YEARS
 
 _(All students take the same core curriculum)_
 
 Purpose: **Expose students to everything**, reveal talent, create tension, and seed future specialization.
 
-### Core Required Classes (All Students)
+#### Core Required Classes (All Students)
 
-#### 1. Fundamentals of Magic Theory
+##### 1. Fundamentals of Magic Theory
 
 - Physical Magic Study
 - Elemental Magic compatibility
 - Irregular Magic Theory
 
-#### 2. Physical Conditioning
+##### 2. Physical Conditioning
 
 - Physical magic body reinforcement
 - Stamina and Strength training
 
-#### 3. Combat Fundamentals
+##### 3. Combat Fundamentals
 
 - Weapon handling (sword, bow, staff, fists)
 - Footwork and battlefield awareness
 
-#### 4. Creation & Support Basics
+##### 4. Creation & Support Basics
 
 - Simple constructs
 - Magic Imbue & Script
 - Healing & Buffing
 
-#### 5. History of Aurvara
+##### 5. History of Aurvara
 
 - Kingdoms, politics, wars
 - World Trees (surface-level myths)
 - Myth and Higher Beings
 
-#### 6. Biology Research
+##### 6. Biology Research
 
 - Herbology
 - Beast Handling
 - Racial physiological differences
 
-### Rotational Labs (Weekly)
+#### Rotational Labs (Weekly)
 
 Students rotate every few weeks:
 
@@ -202,7 +204,7 @@ Students rotate every few weeks:
 - Career Research
 - Self-Directed Study (Elemental Basics if student has a core)
 
-### End-of-Year Evaluation
+#### End-of-Year Evaluation
 
 **Trial of Aptitude**
 
@@ -216,16 +218,16 @@ Students rotate every few weeks:
 - Club recruitment
 - Council/Committee scouting
 
-## YEARS 3–4: SPECIALIZATION YEARS
+### YEARS 3–4: SPECIALIZATION YEARS
 
 Students choose **ONE MAJOR TRACK**  
 Optional **ONE MINOR TRACK**
 
 Each upperclassman student is assigned a buddy whom they advise and mentor.
 
-### Specialization Tracks
+#### Specialization Tracks
 
-#### Combat & Battle Magic Track
+##### Combat & Battle Magic Track
 For front-line fighters
 
 Classes:
@@ -235,7 +237,7 @@ Classes:
 - Battlefield Tactics
 - Live Combat Simulations
 
-#### Ranged & Support Track
+##### Ranged & Support Track
 Archers, Healing, Hunting
 
 Classes:
@@ -244,7 +246,7 @@ Classes:
 - Tracking and Hunting
 - Buffing and Healing
 
-#### Creation & Biology Track
+##### Creation & Biology Track
 Craftsmanship, Plants, Animals
 
 Classes:
@@ -253,7 +255,7 @@ Classes:
 - Advanced Herbology
 - Advanced Beast Study
 
-#### Strategic & Research Track
+##### Strategic & Research Track
 Leadership, tactics, Magic Research
 
 Classes:
@@ -262,14 +264,14 @@ Classes:
 - Crisis Leadership
 - Advanced Magic Theory
 
-#### God's Vessel Studies (Restricted)
+##### God's Vessel Studies (Restricted)
 Invitation-only
 
 Class:
 
 - Unique Ability Research (Access to God's Vessel Arena)
 
-#### Capstone Courses (4th Year Only)
+##### Capstone Courses (4th Year Only)
 
 - **Live Missions (No Staff Supervision)**
 - **World-Level Threat Response**
@@ -368,7 +370,7 @@ _Committee rings glow softly when danger is alerted._
 
 ### SC & DC Quotes
 
-"The Sun shows the path. The Moon ensures you walk it."
+"The Sun shows a path. The Moon ensures you walk it."
 
 “The Council imagines; the Committee maintains.”
 

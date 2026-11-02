@@ -25,11 +25,11 @@ Unlike other owners when Mercy changes the form to a weapon his armor doesn't go
 Noctyra takes this form when ever hostile intent is directed toward Mercy.
 
 #### Specs
-Total length (unsheathed): 134 cm (52.76 inches)  
+Total length: 134 cm (52.76 inches)  
 Blade length: 101.5 cm (39.96 inches)  
 Handle length (without pommel): 26 cm (10.24 inches)  
 Handle length (with pommel): 31.5 cm (12.40 inches)  
-Weight (unsheathed): 2450 g (5.40 lbs)  
+Weight: 2450 g (5.40 lbs)  
 Balance point: 13 cm (5.12 inches) from guard  
 Blade width: tapers from 4.7 cm to 3.8 cm (1.85 in to 1.50 in)  
 Blade thickness: tapers from 7.8 mm to 3.5 mm (0.31 in to 0.14 in)

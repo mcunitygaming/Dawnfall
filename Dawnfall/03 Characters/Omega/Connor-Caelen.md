@@ -9,7 +9,7 @@
 
 ## Personality info
 
-Connor/Caelen being cut from the same cloth as Corvelan means they share many things in common like loving to be at higher elevation and having the same cognitive ability, but also since they aren't the same person things like being used to human interaction meaning that Connor/Caelen is more energetic than Corv.
+Connor/Caelen being cut from the same cloth as Corvelan means they share many things in common like loving to be at higher elevation and having the same cognitive ability, but also since they aren't the same person things like being used to human interaction meaning that Connor/Caelen is more outgoing than Corv. The characters I would describe Caelen as being similar too are [Klein Moretti](https://lordofthemysteries.fandom.com/wiki/Klein_Moretti), [Camille Arno](https://endfield.wiki.gg/wiki/Camille), [Doctor](https://arknights.fandom.com/wiki/Doctor), [Jingran](https://wutheringwaves.fandom.com/wiki/Jingran), and of course [[Corvelan]].
 
 ## Quotes
 
@@ -20,7 +20,7 @@ Caelan's mercenary introduction
 
 ### Magic Arts
 
-Enhanced [[Physical Magic]], [[God Spirit]]
+Enhanced [[Physical Magic]] (Mental), [[God Spirit]]
 
 ### Equipment
 
@@ -50,11 +50,11 @@ Connor has practiced many versions of martial arts for example: Taekwondo, Boxin
 
 ## Relationships
 
-**Dad:** Shawn M
+**Dad:** Shawn ER
 
-**Mom:** Angela M
+**Mom:** Angela ER
 
-**Sibling(s):** Evan M, Alana M
+**Sibling(s):** Evan ER, Alana ER
 
 **Friend(s):** (Byron)
 

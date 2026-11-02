@@ -37,6 +37,7 @@ Looking for sum?
 
 ## Characters
 
+- [[Doctor]]
 - [[1 Alpha]]
 	- [[Elven Protagonist]]
 	- [[Mercy]]
