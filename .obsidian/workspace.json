@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dawnfall/04 Organizations/Sunbreak Spire.md",
+                "file": "Dawnfall/Assets/Temp New System Idea/Temp Magic System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunbreak Spire"
+              "title": "Temp Magic System"
+            }
+          },
+          {
+            "id": "880839c9028f21eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dawnfall/Assets/Temp New System Idea/Temp Magic System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temp Magic System"
+            }
+          },
+          {
+            "id": "97d27dbe27bc42c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dawnfall/03 Characters/Alpha/Mercy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mercy"
             }
           }
         ]
@@ -190,33 +218,34 @@
   },
   "active": "29bbc34e6d3f1a85",
   "lastOpenFiles": [
-    "Dawnfall/05 Locations/Sunbreak Spire Campus.md",
-    "Dawnfall/04 Organizations/Sunbreak Spire.md",
-    "Dawnfall/00 Home/Home.md",
-    "Dawnfall/03 Characters/Aurvara/Corvelan.md",
-    "Dawnfall/03 Characters/Omega/Connor-Caelen.md",
+    "Dawnfall/02 Stories/1 Alpha.md",
+    "Dawnfall/Assets/Temp New System Idea/Temp Magic System.md",
+    "Dawnfall/03 Characters/Alpha/Mercy.md",
+    "Dawnfall/Assets/Temp New System Idea/Temp Cosmology System.md",
     "Dawnfall/01 Universe/Magic Arts/Physical Magic.md",
+    "Dawnfall/01 Universe/Magic Arts/Magic Arts.md",
+    "Dawnfall/01 Universe/Magic Arts/Mythical Magic/Dark Magic.md",
+    "Dawnfall/01 Universe/Cosmology.md",
+    "Dawnfall/03 Characters/Aurvara/Corvelan.md",
+    "Dawnfall/Assets/Temp New System Idea",
+    "Dawnfall/03 Characters/Aurvara/Cian.md",
+    "Dawnfall/03 Characters/Aurvara/Bairon.md",
+    "Dawnfall/03 Characters/Aurvara/Natalie Love.md",
+    "Dawnfall/03 Characters/Aurvara/Evans character.md",
+    "Dawnfall/04 Organizations/Sunbreak Spire.md",
+    "Dawnfall/05 Locations/Sunbreak Spire Campus.md",
+    "Dawnfall/00 Home/Home.md",
+    "Dawnfall/03 Characters/Omega/Connor-Caelen.md",
     "Dawnfall/06 Items/Noctyra.md",
     "Dawnfall/03 Characters/Doctor.md",
     "Dawnfall/03 Characters/Alpha/Elven Protagonist.md",
-    "Dawnfall/03 Characters/Alpha/Mercy.md",
     "Dawnfall/01 Universe/History.md",
     "Dawnfall/01 Universe/Realms.md",
     "Dawnfall/Assets/Templates/Character Template.md",
     "Pasted image 20261022084113.png",
     "![[Pasted.md",
     "().md",
-    "Dawnfall/01 Universe/Magic Arts/Magic Arts.md",
-    "Dawnfall/03 Characters/Aurvara/Evans character.md",
     "Dawnfall/03 Characters/Aurvara/Halira.md",
-    "Dawnfall/03 Characters/Aurvara/Natalie Love.md",
-    "Dawnfall/03 Characters/Aurvara/Cian.md",
-    "Dawnfall/03 Characters/Aurvara/Bairon.md",
-    "Untitled.md",
-    "Dawnfall/02 Stories/1 Alpha.md",
-    "Dawnfall/01 Universe/Races of People/Highborn Kind.md",
-    "Dawnfall/02 Stories/2 Aurvara.md",
-    "Dawnfall/01 Universe/Races of People/Siravell.md",
     "Dawnfall/03 Characters/Alpha"
   ]
 }
