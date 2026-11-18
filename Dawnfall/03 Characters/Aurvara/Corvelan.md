@@ -14,6 +14,9 @@
         - Visual: 30%
         - Tactical: 35%
 - **Dere Type:** Darudere
+- **MBTI:** INTP-A
+- **Enneagram:** 7w8(6w5)
+- **Moral Alignment:** True Neutral(Chaotic Good)
 - **Story:** [[2 Aurvara]]
 
 ## Personality Info

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Universe/Magic Arts/Physical Magic.md",
+                "file": "03 Characters/Aurvara/Corvelan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physical Magic"
+              "title": "Corvelan"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Universe/Magic Arts/Physical Magic.md",
+                "file": "03 Characters/Bairon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Bairon"
             }
           },
           {
@@ -188,47 +188,48 @@
   },
   "active": "3b4c50bc8042f590",
   "lastOpenFiles": [
-    "03 Characters/Aurvara/Bairon.md",
-    "03 Characters/Aurvara/Halira.md",
+    "02 Stories/2 Aurvara.md",
     "03 Characters/Aurvara/Corvelan.md",
-    "01 Universe/Realms.md",
+    "03 Characters/Omega/Connor-Caelen.md",
+    "03 Characters/Doctor.md",
+    "04 Organizations/Sunbreak Spire.md",
+    "04 Organizations/The Shun.md",
+    "03 Characters/Aurvara/Natalie Love.md",
+    "03 Characters/Aurvara/Halira.md",
+    "03 Characters/Aurvara/Evans character.md",
+    "03 Characters/Aurvara/Cian.md",
+    "03 Characters/Aurvara/Bairon.md",
+    "05 Locations/Sunbreak Spire Campus.md",
+    "Assets/Temp New System Idea/Temp Cosmology System.md",
+    "01 Universe/Races of People/Highborn Kind.md",
+    "02 Stories/0 Lucidious.md",
+    "02 Stories/1 Alpha.md",
+    "02 Stories/3 Omega.md",
     "01 Universe/Magic Arts/Phase Magic/Temperature.md",
     "01 Universe/Magic Arts/Phase Magic/Solid Magic.md",
     "01 Universe/Magic Arts/Phase Magic/Liquid Magic.md",
     "01 Universe/Magic Arts/Phase Magic/Gas Magic.md",
-    "03 Characters/Aurvara/Evans character.md",
-    "03 Characters/Aurvara/Natalie Love.md",
-    "01 Universe/Cosmology.md",
-    "01 Universe/Magic Arts/Physical Magic.md",
-    "00 Home/Home.md",
-    "01 Universe/Magic Arts/Magic Arts.md",
-    "03 Characters/Omega/Connor-Caelen.md",
-    "01 Universe/Magic Arts/Mythical Magic/God Spirit.md",
-    "01 Universe/Magic Arts/Mythical Magic/Devil Spirit.md",
-    "01 Universe/Races of People/Sylfen.md",
-    "01 Universe/Races of People/Siravell.md",
-    "01 Universe/Races of People/Highborn Kin.md",
-    "01 Universe/Races of People/Deepstone Kin.md",
-    "01 Universe/Races of People/Beastborn Kin.md",
-    "03 Characters/Corvelan.md",
-    "03 Characters/Bairon.md",
-    "03 Characters/Natalie Love.md",
-    "01 Universe/Magic Arts/Mythical Magic/Vessel Frame.md",
+    "01 Universe/Magic Arts/Phase Magic",
+    "03 Characters/Aurvara",
+    "03 Characters/Alpha/Mercy.md",
+    "03 Characters/Alpha/Elven Protagonist.md",
+    "03 Characters/Alpha",
+    "Assets/Temp New System Idea/Temp Magic System.md",
+    "Assets/Temp New System Idea",
+    "Assets/Inspo.md",
+    "07 Bestiary/Dovah.md",
+    "03 Characters/Omega",
+    "Untitled.canvas",
+    "Assets/Images/Bairon.jpg",
+    "Assets/Images/adult halira.jpeg",
     "Assets/Images/Corvelan.jpeg",
     "Assets/Images/Corvelan(2).jpg",
     "Assets/Images/Cian.jpg",
-    "Assets/Images/Bairon.jpg",
-    "Assets/Images/adult halira.jpeg",
     "Assets/Images",
-    "06 Items",
+    "Assets/Images",
+    "Assets/Untitled.canvas",
     "07 Creatures/Untitled",
     "01 Universe/Races of People",
-    "Untitled.canvas",
-    "Excalidraw",
-    "Assets/Templates",
-    "01 Universe/Magic Arts/Mythical Magic",
-    "01 Universe/Magic Arts/Irregular Magic",
-    "01 Universe/Magic Arts/Elemental Magic",
-    "Connor"
+    "Excalidraw"
   ]
 }
